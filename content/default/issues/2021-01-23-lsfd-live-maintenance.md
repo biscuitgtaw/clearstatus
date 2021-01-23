@@ -4,8 +4,8 @@ title: LSFD.Live Maintenance
 date: 2021-01-23T23:48:11.187Z
 status: in_progress
 pinned: top
-current_severity: monitoring
-max_severity: monitoring
+current_severity: maintenance
+max_severity: maintenance
 duration: ""
 resolved_on: ""
 affected:
