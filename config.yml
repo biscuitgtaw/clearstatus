@@ -1,10 +1,23 @@
-title: Los Santos Fire Department - Statewide Scanner
-baseURL: ""
+############################################################
+## GTA:World Config
+############################################################
+
+# Complete page title
+title: Los Santos Fire Department - Statewide PIO Scanner
+
+# Language config
 languageCode: en
+
+############################################################
+## More default config. in /config/_default/config.yml
+############################################################
+
+
+############################################################
+## Status default config. Valid for ALL languages.
+############################################################
+
 params:
-  shortDateFormat: 15:04 — Jan 2
-  meta_description: This status page provides updated information about our
-    systems normal operation, incidents that may happen and their resolution.
   systems:
     - name: North Los Santos
       description: Areas of Vinewood, Vinewood Hills, Rockford Hills, Morningwood,
@@ -19,16 +32,39 @@ params:
     - name: Blaine County
       description: Covering everything above the Great Chaparral, Harmony, Grand
         Senora Desert, Sandy Shores and Paleto Bay.
-  dateFormat: 2 January 2006 at 3:04 PM
-  disqusShortname: null
-  timezoneString: " (( servertime ))"
+
+  # dateFormat Default: "January 2, 2006 at 3:04 PM"
+  # shortDateFormat Default: "15:04 — Jan 2"
+  dateFormat: "January 2, 2006 at 3:04 PM"
+  shortDateFormat: "15:04 — Jan 2"
+  # This string will be displayed after each time displayed
+  # Set it for instance to " UTC" to indicate UTC times
+  # or a specific time zone, ie " America/New_York"
+  # You can also instead used a translated string per language
+  timezoneString: " ((Server-Time))"
+
+  # Path to logo image from the /static folder.
   logo: "/images/logo.png"
-  description_header: Blahblah
-  copyrightHolder: GTA:W
+
+  # favicon
+  icon: "/images/clearstatus.png"
+  iconType: "image/png"
+
+  # Descriptions
+  meta_description: "This status page provides updated information about our systems normal operation, incidents that may happen and their resolution."
+  description_footer: "GTA World is not affiliated with or endorsed by Rockstar North, Take-Two Interactive or other rightsholders. Any trademarks used belong to their respective owners. GTA WORLD reserves all rights on rightly owned images and other visual content provided on GTA.WORLD."
+  description_header: "Information about <a class='text-grey-darkest' title='Visit example.com' href='https://www.example.com/'>example</a> systems operations.<br />Follow us <a class='text-grey-darkest' title='Visit our page on Twitter' href='https://www.twitter.com/example'>on Twitter</a> or subscribe to <a class='text-grey-darkest' href='%s' >RSS</a><br />to be alerted of new events."
+
+  copyrightHolder: "GTA:World"
+
+  # Disqus commenting per issue: set your Disqus shortname here
+  # Leave empty for no discussion at all.
+  # You can also enable/disable discussions per issue
+  disqusShortname: null
+
+  # Layout
   eventsPerPage: 10
-  iconType: image/png
-  icon: /images/clearstatus.png
-  description_footer: GTA WORLD is not affiliated with or endorsed by Rockstar
-    North, Take-Two Interactive or other rightsholders. Any trademarks used
-    belong to their respective owners. GTA WORLD reserves all rights on rightly
-    owned images and other visual content provided on GTA.WORLD.
+
+############################################################
+## More default config. in /config/_default/params.yml
+############################################################
