@@ -21,7 +21,7 @@ params:
         Senora Desert, Sandy Shores and Paleto Bay.
   dateFormat: 2 January 2006 at 3:04 PM
   disqusShortname: null
-  timezoneString: " UTC"
+  timezoneString: " (( servertime ))"
   logo: "/images/logo.png"
   description_header: Blahblah
   copyrightHolder: GTA:W
