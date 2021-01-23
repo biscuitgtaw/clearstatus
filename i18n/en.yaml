@@ -80,17 +80,17 @@
   translation: We may have moved this page to another address or deleted it altogether. Sorry about the trouble!
 
 - id: willBe
-  translation: will be
+  translation: Incident Type
 - id: willBePlural
-  translation: will be
+  translation: Incident Type
 - id: was
-  translation: was
+  translation: Incident Type
 - id: were
-  translation: were
+  translation: Incident Type
 - id: is
-  translation: is
+  translation: Incident Type
 - id: are
-  translation: are
+  translation: Incident Type
 
 # This string will be displayed after each time displayed
 # Set it for instance to " UTC" to indicate UTC times
