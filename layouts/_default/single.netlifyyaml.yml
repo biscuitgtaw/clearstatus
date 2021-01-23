@@ -20,7 +20,7 @@ collections:
       - {label: "Date", name: "date", widget: "datetime", hint: "The date and time at which the event started or is scheduled."}
       - label: "Status"
         name: "status"
-        hint: "The current state of the affected systems."
+        hint: "The current state of the incident."
         widget: "select"
         default: "in_progress"
         options:
@@ -39,26 +39,26 @@ collections:
           - { label: "Just below the header", value: "belowheader" }
       - label: "Current severity"
         name: "current_severity"
-        hint: "How severe is the event for the affected systme right now."
+        hint: "How severe the incident currently is."
         widget: "select"
         default: "down"
         options:
-          - { label: "Up", value: "ok" }
-          - { label: "Disrupted", value: "disrupted" }
-          - { label: "Down", value: "down" }
-          - { label: "Monitoring", value: "monitoring" }
-          - { label: "Maintenance", value: "maintenance" }
+          - { label: "No Incident", value: "ok" }
+          - { label: "Minor Inicdent", value: "disrupted" }
+          - { label: "Major Incident", value: "down" }
+          - { label: "Unknown", value: "monitoring" }
+          - { label: "Event", value: "maintenance" }
       - label: "Max severity"
         name: "max_severity"
         hint: "What was the maximum severity of the event until its resolution. Used when the event is displayed in the Past events section."
         widget: "select"
         default: "down"
         options:
-          - { label: "Up", value: "ok" }
-          - { label: "Disrupted", value: "disrupted" }
-          - { label: "Down", value: "down" }
-          - { label: "Monitoring", value: "monitoring" }
-          - { label: "Maintenance", value: "maintenance" }
+          - { label: "No Incident", value: "ok" }
+          - { label: "Minor Inicdent", value: "disrupted" }
+          - { label: "Major Incident", value: "down" }
+          - { label: "Unknown", value: "monitoring" }
+          - { label: "Event", value: "maintenance" }
       - label: "Duration"
         name: "duration"
         required: false
@@ -70,9 +70,9 @@ collections:
         required: false
         widget: "datetime"
         hint: ""
-      - label: "Affected systems"
+      - label: "Affected regions"
         name: "affected"
-        hint: "Which of your systems are affected by the event. Use exact same name as in your config file."
+        hint: "Which of your regions are affected by the event. Use exact same name as in your config file."
         widget: "select"
         multiple: true
         options:
