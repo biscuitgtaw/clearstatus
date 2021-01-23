@@ -22,7 +22,7 @@ params:
   dateFormat: 2 January 2006 at 3:04 PM
   disqusShortname: null
   timezoneString: " UTC"
-  logo: ""
+  logo: "/images/logo.png"
   description_header: Blahblah
   copyrightHolder: GTA:W
   eventsPerPage: 10
