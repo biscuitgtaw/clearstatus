@@ -3,7 +3,7 @@ section: issue
 title: "Incident #2823 - Mass Casualty Incident"
 date: 2021-01-23T20:57:51.485Z
 status: in_progress
-pinned: top
+pinned: null
 current_severity: down
 max_severity: down
 duration: ""
