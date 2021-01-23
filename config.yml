@@ -60,7 +60,7 @@ params:
   # Disqus commenting per issue: set your Disqus shortname here
   # Leave empty for no discussion at all.
   # You can also enable/disable discussions per issue
-  disqusShortname: null
+  disqusShortname: lsfd
 
   # Layout
   eventsPerPage: 10
