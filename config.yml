@@ -53,7 +53,7 @@ params:
   # Descriptions
   meta_description: "This status page provides information updated by the LSFD Public Relations Department about incidents that may be happening in the city."
   description_footer: "GTA World is not affiliated with or endorsed by Rockstar North, Take-Two Interactive or other rightsholders. Any trademarks used belong to their respective owners. GTA WORLD reserves all rights on rightly owned images and other visual content provided on GTA.WORLD."
-  description_header: "Information about the <a class='text-grey-darkest' title='Los Santos Fire Department' href='https://lsfd.gta.world/'>Los Santos Fire Department</a> and their operations.<br />Follow us <a class='text-grey-darkest' title='Visit our page on Facebrower' href='https://face.gta.world/pages/LSFire'>on Facebrowser</a> for more detailed information about our incidents.<br/><a class='text-grey-darkest' href='%s' >Subscribe with RSS</a>"
+  description_header: "Information about the <a class='text-grey-darkest' title='Los Santos Fire Department' href='https://lsfd.gta.world/'>Los Santos Fire Department</a> and their operations.<br />Follow us <a class='text-grey-darkest' title='Visit our page on Facebrower' href='https://face.gta.world/pages/LSFire'>on Facebrowser</a> for more detailed information about our incidents.<br/><a class='text-grey-darkest' href='%s' >Subscribe via RSS</a>"
 
   copyrightHolder: "GTA:World"
 
