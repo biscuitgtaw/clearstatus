@@ -84,9 +84,9 @@
 - id: willBePlural
   translation: Incident Type
 - id: was
-  translation: Starting Incident Type
+  translation: Incident Type
 - id: were
-  translation: Starting Incident Type
+  translation: Incident Type
 - id: is
   translation: Incident Type
 - id: are
