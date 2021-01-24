@@ -20,19 +20,22 @@ languageCode: en
 params:
   systems:
     - name: North Los Santos
-      description: Areas of Vinewood, Vinewood Hills, Rockford Hills, Morningwood,
-        Richman, Backlot City and Mirror Park.
+      description: Areas of Vinewood, Vinewood Hills, Rockford Hills, Richman,
+      Backlot City and Morningwood. (Area Codes; 323, 700)
     - name: East Los Santos
-      description: Areas of La Mesa, Murrieta Oil Field, Eastern Los Santos County.
+      description: Areas of South Los Santos including the districts of 
+      La Mesa, Murrieta Oil Field, Mirror Park. (Area Codes; 730)
+    - name: Central Los Santos
+      description: Areas of Downtown Los Santos (Area Codes; 560)
     - name: South Los Santos
-      description: Areas of the Port of Los Santos, Districts of Carson, Grove and
-        Innocence & LSIA.
+      description: Areas of South Los Santos, La Puerta, Port of Los Santos,
+      LISA. (Area Codes; 562, 216)
     - name: West Los Santos
-      description: Areas of Vespucci, Del Perro and Western Los Santos County.
+      description: Areas of Vespucci, Del Perro, Little Seoul, Pacific Bluffs.
+      (Area Codes; 424)
     - name: Blaine County
-      description: Covering everything above the Great Chaparral, Harmony, Grand
-        Senora Desert, Sandy Shores and Paleto Bay.
-
+      description: Areas of Blaine County including the districts of Sandy
+      Shores and Paleto Bay. (Area Codes; 999, 805)
   # dateFormat Default: "January 2, 2006 at 3:04 PM"
   # shortDateFormat Default: "15:04 — Jan 2"
   dateFormat: "January 2, 2006 at 3:04 PM"
@@ -51,8 +54,8 @@ params:
   iconType: "image/png"
 
   # Descriptions
-  meta_description: "This status page provides information updated by the LSFD Public Relations Department about incidents that may be happening in the city."
-  description_footer: "GTA World is not affiliated with or endorsed by Rockstar North, Take-Two Interactive or other rightsholders. Any trademarks used belong to their respective owners. GTA WORLD reserves all rights on rightly owned images and other visual content provided on GTA.WORLD."
+  meta_description: "This page provides information updated by the LSFD Public Relations Department about incidents that may be happening in the city."
+  description_footer: "GTA World is not affiliated with or endorsed by Rockstar North, Take-Two Interactive or other rightsholders. Any trademarks used belong to their respective owners. GTA WORLD reserves all rights on rightly owned images and other visual content provided on GTA.WORLD.<br/><br/>This website was created using a framework called clearstatus, view the source code of the website <a class='text-grey-darkest' href='https://github.com/biscuitgtaw/clearstatus' >here</a>."
   description_header: "Information about the <a class='text-grey-darkest' title='Los Santos Fire Department' href='https://lsfd.gta.world/'>Los Santos Fire Department</a> and their operations.<br />Follow us <a class='text-grey-darkest' title='Visit our page on Facebrower' href='https://face.gta.world/pages/LSFire'>on Facebrowser</a> for more detailed information about our incidents.<br/><a class='text-grey-darkest' href='%s' >Subscribe via RSS</a>"
 
   copyrightHolder: "GTA:World"
