@@ -12,4 +12,4 @@ affected:
   - Blaine County
 enableComments: false
 ---
-Responding Units: RA-31
+Responding Units: RA-31, RA-72
