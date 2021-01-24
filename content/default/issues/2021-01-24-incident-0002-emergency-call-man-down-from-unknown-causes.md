@@ -7,7 +7,7 @@ pinned: ""
 current_severity: disrupted
 max_severity: disrupted
 duration: ""
-resolved_on: 2021-01-23T23:47:00.000Z
+resolved_on: ""
 affected:
   - Blaine County
 twitterFeed: ""
