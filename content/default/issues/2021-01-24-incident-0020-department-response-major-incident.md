@@ -4,7 +4,7 @@ title: "Incident #0021 - Department Response - Major Incident"
 date: 2021-01-24T23:13:59.803Z
 status: in_progress
 pinned: ""
-current_severity: down
+current_severity: disrupted
 max_severity: down
 duration: ""
 resolved_on: ""
