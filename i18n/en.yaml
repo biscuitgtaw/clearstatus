@@ -38,7 +38,7 @@
 - id: down
   translation: LVL2 Incident
 - id: ok
-  translation: No Incidents
+  translation: LVL0 Incident
 - id: monitoring
   translation: Unknown
 - id: maintenance
@@ -46,7 +46,7 @@
 
 # Events
 - id: incidentHistory
-  translation: Past events
+  translation: Past incidents
 
 - id: resolved
   translation: Resolved
@@ -54,9 +54,9 @@
   translation: False Alarm
 
 - id: noEventsTitle
-  translation: No event to be reported.
+  translation: No incidents to be reported.
 - id: noEventsDesc
-  translation: This status page has not logged any incident so far!
+  translation: The Public Relations Division has not logged any incident so far!
 
 - id: prev
   translation: More recent
@@ -72,7 +72,7 @@
 - id: backToTop
   translation: Back to top
 - id: backToList
-  translation: Back to event list
+  translation: Back to incident list
 
 - id: notFound
   translation: We could not find this page.
@@ -88,9 +88,9 @@
 - id: were
   translation: Incident Type
 - id: is
-  translation: Incident Type
+  translation: Ending Incident Type
 - id: are
-  translation: Incident Type
+  translation: Ending Incident Type
 
 # This string will be displayed after each time displayed
 # Set it for instance to " UTC" to indicate UTC times

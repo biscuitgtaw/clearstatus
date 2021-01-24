@@ -41,23 +41,23 @@ collections:
         name: "current_severity"
         hint: "How severe the incident currently is."
         widget: "select"
-        default: "down"
+        default: "monitoring"
         options:
-          - { label: "No Incident", value: "ok" }
+          - { label: "Unknown", value: "monitoring" }
+          - { label: "Level 0 Incident", value: "ok" }
           - { label: "Level 1 Incident", value: "disrupted" }
           - { label: "Level 2 Incident", value: "down" }
-          - { label: "Unknown", value: "monitoring" }
           - { label: "Event", value: "maintenance" }
       - label: "Max severity"
         name: "max_severity"
         hint: "What was the maximum severity of the event until its resolution. Used when the event is displayed in the Past events section."
         widget: "select"
-        default: "down"
+        default: "monitoring"
         options:
-          - { label: "No Incident", value: "ok" }
+          - { label: "Unknown", value: "monitoring" }
+          - { label: "Level 0 Incident", value: "ok" }
           - { label: "Level 1 Incident", value: "disrupted" }
           - { label: "Level 2 Incident", value: "down" }
-          - { label: "Unknown", value: "monitoring" }
           - { label: "Event", value: "maintenance" }
       - label: "Duration"
         name: "duration"
@@ -69,24 +69,19 @@ collections:
         name: "resolved_on"
         required: false
         widget: "datetime"
+        default: ""
         hint: ""
       - label: "Affected regions"
         name: "affected"
-        hint: "Which of your regions are affected by the event. Use exact same name as in your config file."
+        hint: "Which of your regions are affected by the event."
         widget: "select"
         multiple: true
         options:
 {{ range .Site.Params.Systems }}          - { label: "{{ .name }}", value: "{{ .name }}" }
 {{ end }}
-      - label: "Twitter feed"
-        name: "twitterFeed"
-        required: false
-        hint: "If set and the status is in_progress, this feed will be embedded in the event display. Leave empty for no Twitter feed."
-        widget: "string"
-        default: ""
       - label: "Enable comments"
         name: "enableComments"
-        hint: "Enable/disable on this page. Currently with Disqus. You need to set your Disqus short name on the Settings page for this to work."
+        hint: "Enable/disable comments on this incident. This should only be enabled by PIO+."
         widget: "boolean"
         default: false
       - label: "Event description"
