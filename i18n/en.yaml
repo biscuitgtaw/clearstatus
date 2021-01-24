@@ -84,13 +84,13 @@
 - id: willBePlural
   translation: Incident Type
 - id: was
-  translation: Incident Type
+  translation: Starting Incident Type
 - id: were
-  translation: Incident Type
+  translation: Starting Incident Type
 - id: is
-  translation: Ending Incident Type
+  translation: Incident Type
 - id: are
-  translation: Ending Incident Type
+  translation: Incident Type
 
 # This string will be displayed after each time displayed
 # Set it for instance to " UTC" to indicate UTC times
