@@ -12,4 +12,6 @@ affected:
   - South Los Santos
 enableComments: false
 ---
+A Rescue Basic was dispatched from Station 7 to assist with a Motor Vehicular Accident next to the Maze Bank Arena, Rescue Engine attended from Station 3 to assist with entrapment. The civilian was treated on scene and transported to hospital.
+
 Responding Units: RB-71, RE-3
