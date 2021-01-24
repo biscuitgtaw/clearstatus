@@ -4,7 +4,7 @@ title: "Incident #0022 - Department Response - Gun Shot Victim"
 date: 2021-01-24T23:50:11.921Z
 status: in_progress
 pinned: ""
-current_severity: monitoring
+current_severity: disrupted
 max_severity: monitoring
 duration: ""
 resolved_on: ""
