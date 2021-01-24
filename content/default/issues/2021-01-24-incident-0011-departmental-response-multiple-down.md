@@ -7,7 +7,7 @@ pinned: ""
 current_severity: disrupted
 max_severity: disrupted
 duration: ""
-resolved_on: ""
+resolved_on: 2021-01-24T20:09:00.000Z
 affected:
   - South Los Santos
 enableComments: false
