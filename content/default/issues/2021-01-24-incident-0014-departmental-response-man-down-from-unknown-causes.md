@@ -2,14 +2,16 @@
 section: issue
 title: "Incident #0014 - Departmental Response - Man Down from unknown causes"
 date: 2021-01-24T21:12:29.193Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: disrupted
 max_severity: disrupted
 duration: ""
-resolved_on: ""
+resolved_on: 2021-01-24T21:18:47.582Z
 affected:
   - Central Los Santos
 enableComments: false
 ---
-Responding Units: RA-71
+A unit was requested to a Man Down from Unknown Causes on San Andreas Cross Elgin, a pager was sent out. However, Sheriffs cancelled and called DOA.
+
+Responding Units:
