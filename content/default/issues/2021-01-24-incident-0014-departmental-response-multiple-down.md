@@ -12,4 +12,6 @@ affected:
   - South Los Santos
 enableComments: false
 ---
+A Rescue Ambulance was dispatched from Station 7 to assist regarding multiple civilians down after a gun fight on Grove Street. The three civilians were pronounced DOA.
+
 Responding Units: RA-71
