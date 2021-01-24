@@ -44,8 +44,8 @@ collections:
         default: "down"
         options:
           - { label: "No Incident", value: "ok" }
-          - { label: "Minor Inicdent", value: "disrupted" }
-          - { label: "Major Incident", value: "down" }
+          - { label: "Level 1 Incident", value: "disrupted" }
+          - { label: "Level 2 Incident", value: "down" }
           - { label: "Unknown", value: "monitoring" }
           - { label: "Event", value: "maintenance" }
       - label: "Max severity"
@@ -55,8 +55,8 @@ collections:
         default: "down"
         options:
           - { label: "No Incident", value: "ok" }
-          - { label: "Minor Inicdent", value: "disrupted" }
-          - { label: "Major Incident", value: "down" }
+          - { label: "Level 1 Incident", value: "disrupted" }
+          - { label: "Level 2 Incident", value: "down" }
           - { label: "Unknown", value: "monitoring" }
           - { label: "Event", value: "maintenance" }
       - label: "Duration"

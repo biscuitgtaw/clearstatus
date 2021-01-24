@@ -34,9 +34,9 @@
 
 # Components list status
 - id: disrupted
-  translation: Minor Incident
+  translation: LVL1 Incident
 - id: down
-  translation: Major Incident
+  translation: LVL2 Incident
 - id: ok
   translation: No Incidents
 - id: monitoring
