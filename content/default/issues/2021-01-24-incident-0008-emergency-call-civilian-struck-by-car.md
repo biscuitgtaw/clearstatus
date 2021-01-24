@@ -1,6 +1,6 @@
 ---
 section: issue
-title: "Incident #0008 - Emergency Call - Civilian Struck by Car"
+title: "Incident #0008 - Emergency Call - Civilian Down"
 date: 2021-01-24T19:25:03.893Z
 status: in_progress
 pinned: ""
