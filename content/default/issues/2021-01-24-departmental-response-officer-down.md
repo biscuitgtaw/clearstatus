@@ -1,13 +1,13 @@
 ---
 section: issue
 title: "Incident #0001 - Departmental Response - Officer Down"
-date: 2021-01-24T00:11:00.000Z
+date: 2021-01-24T01:11:00.000Z
 status: resolved
 pinned: ""
 current_severity: disrupted
 max_severity: disrupted
 duration: ""
-resolved_on: 2021-01-24T00:23:00.000Z
+resolved_on: 2021-01-24T01:25:00.000Z
 affected:
   - South Los Santos
 twitterFeed: ""
