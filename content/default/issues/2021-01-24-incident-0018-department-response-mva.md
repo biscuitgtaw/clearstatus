@@ -9,6 +9,6 @@ max_severity: monitoring
 duration: ""
 resolved_on: ""
 affected:
-  - South Los Santos
+  - North Los Santos
 enableComments: false
 ---
