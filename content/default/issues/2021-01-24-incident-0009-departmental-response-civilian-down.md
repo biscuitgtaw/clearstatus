@@ -12,8 +12,6 @@ affected:
   - South Los Santos
 enableComments: false
 ---
-
-
-A Rescue Basic were dispatched from Station 7 to assist with Civilian Down that was described as critical on Grove Street, Davis responding units treated the patient on scene and transported to hospital.
+A Rescue Basic was dispatched from Station 7 to assist with Civilian Down that was described as critical on Grove Street, Davis responding units treated the patient on scene and transported to hospital.
 
 Responding Units: RB-73
