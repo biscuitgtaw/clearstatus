@@ -23,7 +23,7 @@ params:
       description: Areas of Vinewood, Vinewood Hills, Rockford Hills, Morningwood,
         Richman, Backlot City and Mirror Park.
     - name: East Los Santos
-      description: Areas of Le Masa, Murrieta Oil Field, Eastern Los Santos County.
+      description: Areas of La Masa, Murrieta Oil Field, Eastern Los Santos County.
     - name: South Los Santos
       description: Areas of the Port of Los Santos, Districts of Carson, Grove and
         Innocence & LSIA.
