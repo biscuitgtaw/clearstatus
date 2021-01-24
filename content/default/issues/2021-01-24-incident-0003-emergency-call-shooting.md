@@ -1,13 +1,13 @@
 ---
 section: issue
 title: "Incident #0003 - Emergency Call - Shooting"
-date: 2021-01-24T01:22:00.000Z
+date: 2021-01-24T02:22:00.000Z
 status: resolved
 pinned: ""
 current_severity: disrupted
 max_severity: disrupted
 duration: ""
-resolved_on: 2021-01-24T01:27:00.000Z
+resolved_on: 2021-01-24T02:27:00.000Z
 affected:
   - South Los Santos
 twitterFeed: ""
