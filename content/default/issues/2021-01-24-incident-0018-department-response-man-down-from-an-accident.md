@@ -2,7 +2,7 @@
 section: issue
 title: "Incident #0018 - Department Response - Man Down from an Accident"
 date: 2021-01-24T22:43:55.500Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: disrupted
 max_severity: disrupted
