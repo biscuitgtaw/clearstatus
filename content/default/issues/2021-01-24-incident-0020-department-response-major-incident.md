@@ -12,4 +12,4 @@ affected:
   - Blaine County
 enableComments: false
 ---
-Responding Units: RA-72, RA-73
+Responding Units: RA-72, RA-73, RA-74
