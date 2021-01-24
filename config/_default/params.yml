@@ -3,7 +3,7 @@
 ############################################################
 
 ## Source for CSS
-enablePostCSSProcessing: true
+enablePostCSSProcessing: false
 fullCSSSourceFile: "css/src/styles.css"
 fullCSSDistFile: "css/dist/styles.css"
 postCSSConfigFolder: "themes/clearstatustheme"
@@ -25,8 +25,8 @@ paginationLinksColor: "text-grey-darkest"
 disabledPaginationLinksColor: "text-grey-dark"
 
 # Severity
-defaultSeverityBackground: "bg-grey-light"
-defaultSeverityColor: "text-black"
+defaultSeverityBackground: "bg-blue-dark"
+defaultSeverityColor: "text-white"
 downSeverityBackground: "bg-red-dark"
 downSeverityColor: "text-white"
 disruptedSeverityBackground: "bg-orange-dark"
