@@ -5,10 +5,11 @@ date: 2021-01-24T19:38:00.701Z
 status: in_progress
 pinned: ""
 current_severity: monitoring
-max_severity: monitoring
+max_severity: disrupted
 duration: ""
 resolved_on: ""
 affected:
   - Blaine County
 enableComments: false
 ---
+Responding Units: RA-31
