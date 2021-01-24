@@ -1,11 +1,11 @@
 ---
 section: issue
 title: "Incident #0002 - Emergency Call - Man down from unknown causes"
-date: 2021-01-24T01:32:19.275Z
+date: 2021-01-23T23:32:00.000Z
 status: in_progress
 pinned: ""
-current_severity: monitoring
-max_severity: monitoring
+current_severity: disrupted
+max_severity: disrupted
 duration: ""
 resolved_on: ""
 affected:
