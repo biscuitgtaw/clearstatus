@@ -1,7 +1,7 @@
 ---
 section: issue
 title: "Incident #0002 - Emergency Call - Assault Victim"
-date: 2021-01-23T23:32:00.000Z
+date: 2021-01-24T00:32:00.000Z
 status: resolved
 pinned: ""
 current_severity: disrupted
