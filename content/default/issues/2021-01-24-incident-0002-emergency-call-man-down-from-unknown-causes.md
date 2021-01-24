@@ -1,13 +1,13 @@
 ---
 section: issue
 title: "Incident #0002 - Emergency Call - Assault Victim"
-date: 2021-01-24T00:32:00.000Z
+date: 2021-01-24T01:32:00.000Z
 status: resolved
 pinned: ""
 current_severity: disrupted
 max_severity: disrupted
 duration: ""
-resolved_on: 2021-01-24T00:56:00.000Z
+resolved_on: 2021-01-24T01:56:00.000Z
 affected:
   - Blaine County
 twitterFeed: ""
