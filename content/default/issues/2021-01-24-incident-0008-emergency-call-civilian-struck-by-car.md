@@ -12,4 +12,8 @@ affected:
   - North Los Santos
 enableComments: false
 ---
+Firefighters and EMT's have arrived on scene and are currently handling the situation.
+
+![](/images/uploads/gta-world-camera-2021-1-24-20-41-26.png)
+
 Responding Units: RA-71, E-7
