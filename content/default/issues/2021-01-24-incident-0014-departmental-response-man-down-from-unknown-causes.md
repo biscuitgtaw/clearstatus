@@ -1,6 +1,6 @@
 ---
 section: issue
-title: "Incident #0014 - Departmental Response - Man Down from unknown causes"
+title: "Incident #0015 - Departmental Response - Man Down from unknown causes"
 date: 2021-01-24T21:12:29.193Z
 status: resolved
 pinned: ""
