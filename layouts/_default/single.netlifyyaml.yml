@@ -88,7 +88,7 @@ collections:
         name: "enableComments"
         hint: "Enable/disable on this page. Currently with Disqus. You need to set your Disqus short name on the Settings page for this to work."
         widget: "boolean"
-        default: true
+        default: false
       - label: "Event description"
         name: "body"
         required: false
