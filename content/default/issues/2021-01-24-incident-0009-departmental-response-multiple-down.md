@@ -14,4 +14,4 @@ enableComments: false
 ---
 A Rescue Ambulance and Rescue Basic were dispatched from Station 3 and 7 respectively  to assist with multiple Civilians Down at Grapeseed Airstrip, responding units declared that both Civilians was DOA. Two Officers received medical assistance on scene and was transported to hospital.
 
-Responding Units: RA-31, RA-72
+Responding Units: RA-31, RA-72, PR-1
