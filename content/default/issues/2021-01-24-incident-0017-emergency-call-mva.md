@@ -12,4 +12,6 @@ affected:
   - South Los Santos
 enableComments: false
 ---
+A Rescue Ambulance was dispatched from Station 7 to assist with a civilian involved in an MVA, Paramedics treated the patient on scene and transported to hospital.
+
 Responding Units: RA-71, PR-1
