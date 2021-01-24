@@ -12,4 +12,6 @@ affected:
   - Central Los Santos
 enableComments: false
 ---
+A Rescue Basic was dispatched from Station 7 to assist with a civilian suffering from gunshot wounds on San Andreas Avenue cross Elgin Avenue.
+
 Responding Units: RA-74
