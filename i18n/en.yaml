@@ -51,7 +51,7 @@
 - id: resolved
   translation: Resolved
 - id: inUnderAMinute
-  translation: in under a minute
+  translation: Fast Resolution
 
 - id: noEventsTitle
   translation: No event to be reported.
