@@ -1,6 +1,6 @@
 ---
 section: issue
-title: "Incident #0020 - Department Response - Major Incident"
+title: "Incident #0021 - Department Response - Major Incident"
 date: 2021-01-24T23:13:59.803Z
 status: in_progress
 pinned: ""
