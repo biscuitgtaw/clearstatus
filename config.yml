@@ -26,7 +26,7 @@ params:
       description: Areas of Le Masa, Murrieta Oil Field, Eastern Los Santos County.
     - name: South Los Santos
       description: Areas of the Port of Los Santos, Districts of Carson, Grove and
-        Innocence & LISA.
+        Innocence & LSIA.
     - name: West Los Santos
       description: Areas of Vespucci, Del Perro and Western Los Santos County.
     - name: Blaine County
