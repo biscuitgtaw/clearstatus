@@ -21,21 +21,21 @@ params:
   systems:
     - name: North Los Santos
       description: "Areas of Vinewood, Vinewood Hills, Rockford Hills, Richman,
-      Backlot City and Morningwood. (Area Codes - 323, 700)"
+      Backlot City and Morningwood. (Area Codes; 323, 700)"
     - name: East Los Santos
       description: "Areas of South Los Santos including the districts of 
-      La Mesa, Murrieta Oil Field, Mirror Park. (Area Codes - 730)"
+      La Mesa, Murrieta Oil Field, Mirror Park. (Area Codes; 730)"
     - name: Central Los Santos
-      description: "Areas of Downtown Los Santos. (Area Codes - 560)"
+      description: "Areas of Downtown Los Santos. (Area Codes; 560)"
     - name: South Los Santos
       description: "Areas of South Los Santos, La Puerta, Port of Los Santos,
-      LISA. (Area Codes - 562, 216)"
+      LISA. (Area Codes; 562, 216)"
     - name: West Los Santos
       description: "Areas of Vespucci, Del Perro, Little Seoul, Pacific Bluffs.
-      (Area Codes - 424)"
+      (Area Codes; 424)"
     - name: Blaine County
       description: "Areas of Blaine County including the districts of Sandy
-      Shores and Paleto Bay. (Area Codes - 999, 805)"
+      Shores and Paleto Bay. (Area Codes; 999, 805)"
   # dateFormat Default: "January 2, 2006 at 3:04 PM"
   # shortDateFormat Default: "15:04 — Jan 2"
   dateFormat: "January 2, 2006 at 3:04 PM"
