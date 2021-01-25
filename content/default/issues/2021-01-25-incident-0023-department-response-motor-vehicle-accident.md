@@ -4,8 +4,8 @@ title: "Incident #0023 - Department Response - Motor Vehicle Accident"
 date: 2021-01-25T00:50:11.542Z
 status: in_progress
 pinned: ""
-current_severity: monitoring
-max_severity: monitoring
+current_severity: disrupted
+max_severity: disrupted
 duration: ""
 resolved_on: ""
 affected:
