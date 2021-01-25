@@ -15,7 +15,8 @@ enableComments: false
 Response Timeline:
 
 * \[19:05] - Firefighters arrived on scene.
-* \[19:12] - There are two confirmed casualties on scene.
+* \[19:12] - There are two confirmed critical casualties on scene.
+* \[19:15] - CPR has been started.
 
 ![](https://i.imgur.com/wqBdH8G.jpg)
 
