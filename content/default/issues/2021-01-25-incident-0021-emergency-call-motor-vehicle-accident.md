@@ -14,7 +14,10 @@ enableComments: false
 ---
 Timeline:
 
-* [10:26] - Units already on scene, request for another RA due to multiple casualties.
-* [10:27] - RB-71 arrived on scene.
+* \[10:26] - Units already on scene, request for another RA due to multiple casualties.
+* \[10:27] - RB-71 arrived on scene.
+* \[10:28] - Firefighters have identified two casualties and are working on extracting them from the vehicle.
+
+![](https://i.imgur.com/RpGjE4R.png)
 
 Responding Units: E-7, RB-71, RB-72
