@@ -7,7 +7,7 @@ pinned: ""
 current_severity: disrupted
 max_severity: disrupted
 duration: ""
-resolved_on: 2021-01-25T01:21:31.836Z
+resolved_on: 2021-01-25T01:30:00.000Z
 affected:
   - West Los Santos
 enableComments: false
