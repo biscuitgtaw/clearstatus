@@ -18,6 +18,7 @@ Timeline:
 * [21:11] - Multiple casualties confirmed.
 * [21:11] - Two confirmed DOA.
 * [21:12] - Third casualty being treated my medical crews.
+* [21:21] - Casualty was loaded into the ambulance.
 
 ![](https://i.imgur.com/Om9ZtoZ.png)
 
