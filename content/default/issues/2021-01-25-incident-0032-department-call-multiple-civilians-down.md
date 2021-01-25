@@ -1,6 +1,6 @@
 ---
 section: issue
-title: "Incident #0032 - Department Call - Officer Down"
+title: "Incident #0032 - Department Response - Officer Down"
 date: 2021-01-25T22:42:26.539Z
 status: in_progress
 pinned: ""
@@ -12,12 +12,6 @@ affected:
   - South Los Santos
 enableComments: false
 ---
-Timeline:
-
-* \[22:47] - RB-72 arrived on scene.
-* \[22:47] - Rescue Crew identified an Officer Down.
-* \[22:49] - Rescue Crew started providing medical care to the casualty.
-
-![](https://i.imgur.com/IbjPnOw.png)
+A Rescue Basic was dispatched from Station 7 to assist with a Multiple Civilians Down call, once arrived, the rescue crew had only identified a singular officer down, the casualty was provided with medical care and was quickly transported to the hospital.
 
 Responding Units: RB-72
