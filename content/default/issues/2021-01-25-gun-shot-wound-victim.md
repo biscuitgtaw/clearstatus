@@ -4,8 +4,8 @@ title: "Incident #0025  - Department Response - Gun Shot Wound Victim"
 date: 2021-01-25T06:25:30.625Z
 status: resolved
 pinned: ""
-current_severity: monitoring
-max_severity: monitoring
+current_severity: disrupted
+max_severity: disrupted
 duration: ""
 resolved_on: 2021-01-25T06:34:06.322Z
 affected:
