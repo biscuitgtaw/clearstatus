@@ -2,7 +2,7 @@
 section: issue
 title: "Incident #0025 Gun Shot Wound Victim"
 date: 2021-01-25T06:25:30.625Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: monitoring
 max_severity: monitoring
