@@ -2,12 +2,12 @@
 section: issue
 title: "Incident #0032 - Department Response - Officer Down"
 date: 2021-01-25T22:42:26.539Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: disrupted
 max_severity: disrupted
 duration: ""
-resolved_on: ""
+resolved_on: 2021-01-25T23:12:00.841Z
 affected:
   - South Los Santos
 enableComments: false
