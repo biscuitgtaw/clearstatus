@@ -14,10 +14,11 @@ enableComments: false
 ---
 Timeline:
 
-* \[10:26] - Units already on scene, request for another RA due to multiple casualties.
-* \[10:27] - RB-71 arrived on scene.
-* \[10:28] - Firefighters have identified two casualties and are working on extracting them from the vehicle.
-* \[10:52] - First casualty has been successfully extracted from the vehicle.
+* \[21:26] - Units already on scene, request for another RA due to multiple casualties.
+* \[21:27] - RB-71 arrived on scene.
+* \[21:28] - Firefighters have identified two casualties and are working on extracting them from the vehicle.
+* \[21:52] - First casualty has been successfully extracted from the vehicle.
+* \[22:02] - First casualty has been loaded into the ambulance and taken into the hospital.
 
 ![](https://i.imgur.com/RpGjE4R.png)
 
