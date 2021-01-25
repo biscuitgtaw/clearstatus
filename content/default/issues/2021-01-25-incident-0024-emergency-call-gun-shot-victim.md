@@ -12,4 +12,6 @@ affected:
   - Blaine County
 enableComments: false
 ---
+A Rescue Ambulance has been dispatched from Station 3 to assist with a civilian suffering from gunshot wounds on Ron Alternatives Wind Farms, Blaine County. Firefighters are currently on scene assisting the victim.
+
 Responding Units: RA-31
