@@ -12,4 +12,8 @@ affected:
   - Central Los Santos
 enableComments: false
 ---
+Firefighters are currently on scene and providing medical care.
+
+![](https://i.imgur.com/IYWUirt.jpg)
+
 Responding Units: RA-71, RE-3, PR-1
