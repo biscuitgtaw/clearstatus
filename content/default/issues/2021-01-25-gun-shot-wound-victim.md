@@ -12,4 +12,5 @@ affected:
   - North Los Santos
 enableComments: false
 ---
-Gun Shout Wound victim down on Clinton Avenue, near the tool shop. No additional information is known at this time. A rescue ambulance crew stabilized the victim and transported them to a nearby hospital. All further updates will be available from medical staff on the hospital site.
+A Rescue Ambulance was dispatched from Station 7 to assist with a gun shot victim on Clinton Ave. in Northern Los Santos near the tool shop. The patient was transported in stable condition to the local hospital.\
+Responding Units:  RA-71
