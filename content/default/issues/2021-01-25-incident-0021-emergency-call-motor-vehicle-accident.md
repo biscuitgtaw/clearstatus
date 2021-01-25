@@ -20,6 +20,7 @@ Timeline:
 * \[21:52] - First casualty has been successfully extracted from the vehicle.
 * \[22:02] - First casualty has been loaded into the ambulance and taken into the hospital.
 * \[22:09] - Second casualty has been successfully extracted from the vehicle.
+* \[22:15] - Second casualty has been loaded into the ambulance and taken into the hospital.
 
 ![](https://i.imgur.com/RpGjE4R.png)
 
