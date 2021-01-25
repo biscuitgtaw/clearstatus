@@ -12,6 +12,6 @@ affected:
   - Blaine County
 enableComments: false
 ---
-3x Rescue Ambulances were dispatched from Station 7 to assist LSSD with a Mass Casualty Incident in Twin Towers Correctional Facility, three inmates were treated at scene with one declared dead shortly after treatment began and two transported to the facility infirmary.
+3x Rescue Ambulances were dispatched from Station 7 to assist LSSD with a Mass Casualty Incident in Twin Towers Correctional Facility, three inmates were treated at scene with one declared deceased shortly after treatment began and two transported to the facility infirmary.
 
 Responding Units: RA-72, RA-73, RA-74
