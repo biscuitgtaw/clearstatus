@@ -1,6 +1,6 @@
 ---
 section: issue
-title: "Incident #0032 - Department Response - Officer Down"
+title: "Incident #0031 - Department Response - Officer Down"
 date: 2021-01-25T22:42:26.539Z
 status: resolved
 pinned: ""
