@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Gun Shot Wound Victim
+title: "Incident #0025 Gun Shot Wound Victim"
 date: 2021-01-25T06:25:30.625Z
 status: in_progress
 pinned: ""
