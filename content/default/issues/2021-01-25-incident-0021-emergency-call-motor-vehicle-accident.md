@@ -2,7 +2,7 @@
 section: issue
 title: "Incident #0021 - Emergency Call - Motor Vehicle Accident"
 date: 2021-01-25T21:25:32.232Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: disrupted
 max_severity: disrupted
@@ -12,16 +12,6 @@ affected:
   - Central Los Santos
 enableComments: false
 ---
-Timeline:
-
-* \[21:26] - Units already on scene, request for another RA due to multiple casualties.
-* \[21:27] - RB-71 arrived on scene.
-* \[21:28] - Firefighters have identified two casualties and are working on extracting them from the vehicle.
-* \[21:52] - First casualty has been successfully extracted from the vehicle.
-* \[22:02] - First casualty has been loaded into the ambulance and taken into the hospital.
-* \[22:09] - Second casualty has been successfully extracted from the vehicle.
-* \[22:15] - Second casualty has been loaded into the ambulance and taken into the hospital.
-
-![](https://i.imgur.com/RpGjE4R.png)
+A Rescue Basic and Rescue Engine was dispatched from Station 7 to assist with a Motor Vehicle Accident that happened in the are of Downtown Los Santos. The first responding units noticed there were two casualties inside of one vehicle and called in for another Rescue Basic to assist with the other casualty. The firefighters started working on the extraction as the Rescue Crews started working on medical treatment, both casualties were transported to the hospital.
 
 Responding Units: E-7, RB-71, RB-72
