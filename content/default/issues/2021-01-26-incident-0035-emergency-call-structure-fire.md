@@ -18,6 +18,7 @@ Timeline:
 * \[19:26] - Exterior Attack started.
 * \[19:41] - Primary Search started.
 * \[19:50] - Knockdown confirmed.
+* \[19:53] - Cleanup started.
 
 ![](https://i.imgur.com/ws8ZzFw.jpg)
 
