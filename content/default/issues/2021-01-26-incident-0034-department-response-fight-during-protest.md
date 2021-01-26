@@ -2,12 +2,12 @@
 section: issue
 title: "Incident #0034 - Department Response - Fight during Protest"
 date: 2021-01-26T18:44:39.387Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: disrupted
 max_severity: disrupted
 duration: ""
-resolved_on: ""
+resolved_on: 2021-01-26T19:01:25.148Z
 affected:
   - South Los Santos
 enableComments: false
