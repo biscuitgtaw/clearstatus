@@ -12,4 +12,4 @@ affected:
   - Blaine County
 enableComments: false
 ---
-Responding Units: RB-71
+Responding Units: RB-71, RA-61
