@@ -19,4 +19,4 @@ Timeline:
 
 ![](https://i.imgur.com/ws8ZzFw.jpg)
 
-Responding Units: RE-3, RE-4, PR-1, SFM, Chief-3, Reserve Engine 1
+Responding Units: RE-3, E-4, PR-1, SFM, Chief-3, Reserve Engine 1
