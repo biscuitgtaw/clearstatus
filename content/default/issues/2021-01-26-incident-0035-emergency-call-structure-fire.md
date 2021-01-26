@@ -15,7 +15,7 @@ enableComments: false
 Timeline:
 
 * \[19:20] - Fire confirmed, multiple units arrived on scene.
-* \[19:26] - Fire suppression started.
+* \[19:26] - Exterior Attack started.
 
 ![](https://i.imgur.com/ws8ZzFw.jpg)
 
