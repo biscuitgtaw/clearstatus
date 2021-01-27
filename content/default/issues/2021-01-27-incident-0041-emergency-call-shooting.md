@@ -2,20 +2,16 @@
 section: issue
 title: "Incident #0041 - Emergency Call - Officer Down"
 date: 2021-01-27T20:49:28.411Z
-status: in_progress
+status: resolved
 pinned: ""
-current_severity: monitoring
-max_severity: monitoring
+current_severity: disrupted
+max_severity: disrupted
 duration: ""
-resolved_on: ""
+resolved_on: 2021-01-27T21:10:03.865Z
 affected:
   - East Los Santos
 enableComments: false
 ---
-Timeline:
-
-* \[20:53] - Medical crew arrived on scene.
-* \[20:54] - Medical crew started providing first aid.
-* \[21:02] - One casualty confirmed DOA.
+A Rescue Engine and Rescue Ambulance dispatched from Station 3 to assist with an officer down at El Burro Heights, firefighters and medical crews quickly identified two casualties, but one was DOA. The firefighters provided medical treatment to the officer and took him to a hospital.
 
 Responding Units: RA-71, RE-3
