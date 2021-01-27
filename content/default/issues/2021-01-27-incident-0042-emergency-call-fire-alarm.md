@@ -15,7 +15,8 @@ enableComments: false
 Timeline:
 
 * \[21:28] - Firefighters identified and confirmed an apartment fire.
+* \[21:36] - Firefighters started preparing their equipment for a primary attack.
 
 ![](https://i.imgur.com/X5ksvam.jpg)
 
-Responding Units: RA-71, RA-31, USAR-3, RE-3
+Responding Units: RA-71, RA-31, USAR-3, RE-3, Q1, SFM
