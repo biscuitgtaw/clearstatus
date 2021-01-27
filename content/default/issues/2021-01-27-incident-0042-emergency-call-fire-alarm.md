@@ -16,6 +16,10 @@ Timeline:
 
 * \[21:28] - Firefighters identified and confirmed an apartment fire.
 * \[21:36] - Firefighters started preparing their equipment for a primary attack and exterior attack.
+* \[21:xx] - Primary Attack started.
+* \[21:43] - First floor of the complex is clear.
+* \[21:43] - Second floor of the complex is clear.
+* \[21:45] - Third floor of the complex is clear, all floors are clear of people.
 
 ![](https://i.imgur.com/rKqMYr0.png)
 
