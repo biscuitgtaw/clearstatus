@@ -21,6 +21,7 @@ Timeline:
 * \[21:43] - Second floor of the complex is clear.
 * \[21:45] - Third floor of the complex is clear, all floors are clear of potential victims.
 * \[21:55] - Due to a lack of victims, RA-71 cleared out to deal with another situation.
+* \[21:59] - Knockdown of the fire confirmed.
 
 ![](https://i.imgur.com/rKqMYr0.png)
 
