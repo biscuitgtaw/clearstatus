@@ -2,12 +2,12 @@
 section: issue
 title: "Incident #0040 - Emergency Call - Fight"
 date: 2021-01-27T20:25:01.789Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: disrupted
 max_severity: disrupted
 duration: ""
-resolved_on: ""
+resolved_on: 2021-01-27T20:48:41.913Z
 affected:
   - South Los Santos
 enableComments: false
