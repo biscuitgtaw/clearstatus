@@ -12,4 +12,10 @@ affected:
   - West Los Santos
 enableComments: false
 ---
+Timeline:
+
+* \[18:39] - Firefighters confirmed to have arrived on-scene.
+
+![](https://i.imgur.com/7QCeo9u.png)
+
 Responding Units: RE-3, RB-71, PR-1, UT-3
