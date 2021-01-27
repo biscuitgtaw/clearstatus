@@ -9,7 +9,7 @@ max_severity: disrupted
 duration: ""
 resolved_on: ""
 affected:
-  - West Los Santos
+  - Blaine County
 enableComments: false
 ---
 Timeline:
