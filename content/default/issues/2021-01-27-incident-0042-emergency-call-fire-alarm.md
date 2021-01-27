@@ -12,4 +12,8 @@ affected:
   - North Los Santos
 enableComments: false
 ---
-Responding Units: RA-31, USAR-3, RE-3
+Timeline:
+
+* \[21:28] - Firefighters identified and confirmed an apartment fire.
+
+Responding Units: RA-71, RA-31, USAR-3, RE-3
