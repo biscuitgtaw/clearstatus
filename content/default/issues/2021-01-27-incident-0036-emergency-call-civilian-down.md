@@ -13,6 +13,7 @@ affected:
 enableComments: false
 ---
 Timeline:
+
 * [17:32] - Medical crew arrived.
 
 Responding Units: RB-72
