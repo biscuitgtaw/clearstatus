@@ -1,6 +1,6 @@
 ---
 section: issue
-title: "Incident #0040 - Emergency Call - Civilian Down"
+title: "Incident #0040 - Emergency Call - Fight"
 date: 2021-01-27T20:25:01.789Z
 status: in_progress
 pinned: ""
