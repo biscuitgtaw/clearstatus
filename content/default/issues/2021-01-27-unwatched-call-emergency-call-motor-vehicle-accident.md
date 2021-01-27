@@ -16,6 +16,7 @@ Timeline:
 
 * \[18:39] - Firefighters confirmed to have arrived on-scene.
 * \[18:42] - Extraction of the casualty has been started.
+* \[18:50] - Victim has been extracted from the vehicle.
 
 ![](https://i.imgur.com/7QCeo9u.png)
 
