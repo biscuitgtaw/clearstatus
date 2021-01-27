@@ -16,5 +16,6 @@ Timeline:
 
 * \[20:53] - Medical crew arrived on scene.
 * \[20:54] - Medical crew started providing first aid.
+* \[21:02] - One casualty confirmed DOA.
 
 Responding Units: RA-71, RE-3
