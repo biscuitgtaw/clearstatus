@@ -12,4 +12,6 @@ affected:
   - West Los Santos
 enableComments: false
 ---
+The fire has been put out, SFM is currently investigating the scene.
+
 Responding Units: E-7, PR-1, SFM
