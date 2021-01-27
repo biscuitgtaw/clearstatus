@@ -20,7 +20,6 @@ Timeline:
 * \[21:43] - First floor of the complex is clear.
 * \[21:43] - Second floor of the complex is clear.
 * \[21:45] - Third floor of the complex is clear, all floors are clear of potential victims.
-* \[
 
 ![](https://i.imgur.com/rKqMYr0.png)
 
