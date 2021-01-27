@@ -19,4 +19,4 @@ Timeline:
 
 ![](https://i.imgur.com/rKqMYr0.png)
 
-Responding Units: RA-71, RA-31, USAR-3, RE-3, Q1, SFM
+Responding Units: RA-71, RA-31, USAR-3, RE-3, Q-7, SFM
