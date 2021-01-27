@@ -12,4 +12,9 @@ affected:
   - East Los Santos
 enableComments: false
 ---
+Timeline:
+
+* \[20:53] - Medical crew arrived on scene.
+* \[20:54] - Medical crew started providing first aid.
+
 Responding Units: RA-71, RE-3
