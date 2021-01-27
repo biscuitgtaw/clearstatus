@@ -15,6 +15,7 @@ enableComments: false
 Timeline:
 
 * \[18:39] - Firefighters confirmed to have arrived on-scene.
+* \[18:42] - Extraction of the casualty has been started.
 
 ![](https://i.imgur.com/7QCeo9u.png)
 
