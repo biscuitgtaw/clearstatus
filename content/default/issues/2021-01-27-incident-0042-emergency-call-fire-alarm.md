@@ -1,6 +1,6 @@
 ---
 section: issue
-title: "Incident #0042 - Emergency Call - Fire Alarm"
+title: "Incident #0042 - Emergency Call - Apartment Fire"
 date: 2021-01-27T21:26:03.295Z
 status: in_progress
 pinned: ""
