@@ -12,12 +12,6 @@ affected:
   - South Los Santos
 enableComments: false
 ---
-Timeline:
-
-* [20:xx] - Patient treatment started.
-
-Details:
-
-* [I#001] - There had been a fight resulting in a casualty.
+A Rescue Engine and Rescue Ambulance dispatched from Station 3 to assist with a person down in the area of Grove Street. The person was quickly identified to have had been in a fight, the medical crew provided first aid to the person and the person wasn't in need of a medical transport.
 
 Responding Units: RA-71, RE-3
