@@ -18,6 +18,7 @@ Timeline:
 * \[20:54] - Firefighters arrived on scene.
 * \[20:56] - Primary Attack started.
 * \[21:04] - USAR-3 / Q-7 arrived.
+* \[21:11] - Knockdown confirmed.
 * \[21:13] - RA-4 arrived.
 
 ![](https://i.imgur.com/aPx53iG.jpg)
