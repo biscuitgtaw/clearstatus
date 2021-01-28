@@ -12,4 +12,4 @@ affected:
   - West Los Santos
 enableComments: false
 ---
-Dispatched Units: LP-2, SWR-3, UT-7
+Dispatched Units: LP-2, SWR-3, UT-7, LP-3, COPTER-2
