@@ -16,8 +16,9 @@ Timeline:
 
 * \[20:32] - A burn victim was treated by a medical crew and taken to the hospital.
 * \[20:54] - Firefighters arrived on scene.
-* \[20:56] - Primary Attack Started.
-* \[21:04] - USAR-3 / Q-7 Arrived.
+* \[20:56] - Primary Attack started.
+* \[21:04] - USAR-3 / Q-7 arrived.
+* \[21:13] - RA-4 arrived.
 
 ![](https://i.imgur.com/aPx53iG.jpg)
 
