@@ -17,7 +17,8 @@ Timeline:
 * \[20:32] - A burn victim was treated by a medical crew and taken to the hospital.
 * \[20:54] - Firefighters arrived on scene.
 * \[20:56] - Primary Attack Started.
+* \[21:04] - Squad 3 Arrived.
 
 ![](https://i.imgur.com/SVd5euT.png)
 
-Responding Units: RA-32, E-7
+Responding Units: RA-32, E-7, Squad 3
