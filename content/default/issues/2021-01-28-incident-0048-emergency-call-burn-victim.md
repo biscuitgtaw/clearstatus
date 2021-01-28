@@ -19,6 +19,6 @@ Timeline:
 * \[20:56] - Primary Attack Started.
 * \[21:04] - USAR-3 / Q-7 Arrived.
 
-![](https://i.imgur.com/SVd5euT.png)
+![](https://i.imgur.com/aPx53iG.jpg)
 
 Responding Units: RA-32, E-7, USAR-3, Q-7
