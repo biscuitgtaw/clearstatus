@@ -4,8 +4,8 @@ title: "Incident #0050 - Other - Water Rescue / Motor Vehicle Accident"
 date: 2021-01-28T22:00:50.944Z
 status: in_progress
 pinned: ""
-current_severity: disrupted
-max_severity: disrupted
+current_severity: down
+max_severity: down
 duration: ""
 resolved_on: ""
 affected:
