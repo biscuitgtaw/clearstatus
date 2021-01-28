@@ -4,8 +4,8 @@ title: "Incident #0049 - Department Response - Gunshot Victim"
 date: 2021-01-28T21:38:15.438Z
 status: in_progress
 pinned: ""
-current_severity: monitoring
-max_severity: monitoring
+current_severity: disrupted
+max_severity: disrupted
 duration: ""
 resolved_on: ""
 affected:
