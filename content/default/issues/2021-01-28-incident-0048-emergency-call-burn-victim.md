@@ -20,6 +20,7 @@ Timeline:
 * \[21:04] - USAR-3 / Q-7 arrived.
 * \[21:11] - Knockdown confirmed.
 * \[21:13] - RA-4 arrived.
+* \[21:22] - Cleanup started.
 
 Two Rescue Ambulances, an Engine, Urban Search and Rescue & Ladder Truck were dispatched to a Gas Station Fire at Richman Glen Gas Station. The first responding unit RA-32 spotted a female burn victim along with a Gas Leak from the fires, whilst providing medical care to the female burn victim a fire ignited. The medical crew removed the victim away from the fire and transported her to the hospital before any more harm was caused. Afterwards firefighters arrived on scene and assisted with taking down the fire. After fully knocking down the fire, fire crews proceeded to clean the place up. There were no other casualties and no deaths.
 
