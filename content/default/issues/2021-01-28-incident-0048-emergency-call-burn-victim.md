@@ -2,12 +2,12 @@
 section: issue
 title: "Incident #0048 - Emergency Call - Gas Station Fire"
 date: 2021-01-28T20:40:44.488Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: down
 max_severity: down
 duration: ""
-resolved_on: ""
+resolved_on: 2021-01-28T21:27:14.899Z
 affected:
   - Blaine County
 enableComments: false
@@ -21,6 +21,7 @@ Timeline:
 * \[21:11] - Knockdown confirmed.
 * \[21:13] - RA-4 arrived.
 * \[21:22] - Cleanup started.
+* \[21:26] - Operation concluded.
 
 Two Rescue Ambulances, an Engine, Urban Search and Rescue & Ladder Truck were dispatched to a Gas Station Fire at Richman Glen Gas Station. The first responding unit RA-32 spotted a female burn victim along with a Gas Leak from the fires, whilst providing medical care to the female burn victim a fire ignited. The medical crew removed the victim away from the fire and transported her to the hospital before any more harm was caused. Afterwards firefighters arrived on scene and assisted with taking down the fire. After fully knocking down the fire, fire crews proceeded to clean the place up. There were no other casualties and no deaths.
 
