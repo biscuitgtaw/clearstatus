@@ -28,4 +28,4 @@ A Rescue Basic, Rescue Engine, Urban Search and Rescue, Company Chief were dispa
 
 ![](https://i.imgur.com/sjG0c5I.png)
 
-Responding Units: Chief-3, USAR-3, RE-3, PR-1, SFM
+Responding Units: Chief-3, USAR-3, RE-3, RB-72, PR-1, SFM
