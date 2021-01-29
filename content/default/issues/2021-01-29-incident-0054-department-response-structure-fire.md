@@ -16,5 +16,6 @@ Timeline:
 
 * \[21:31] - Chief-3 arrived on scene and confirmed the fire.
 * \[21:33] - USAR-3, RE-3 arrived on scene.
+* \[21:33] - Primary Search started.
 
 Responding Units: Chief-3, USAR-3, RE-3, PR-1
