@@ -12,4 +12,9 @@ affected:
   - South Los Santos
 enableComments: false
 ---
+Timeline:
+
+* \[21:31] - Chief-3 arrived on scene and confirmed the fire.
+* \[21:33] - USAR-3, RE-3 arrived on scene.
+
 Responding Units: Chief-3, USAR-3, RE-3, PR-1
