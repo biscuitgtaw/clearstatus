@@ -1,6 +1,6 @@
 ---
 section: issue
-title: "incident #0053 - Department Response - Civilian Down"
+title: "Incident #0053 - Department Response - Civilian Down"
 date: 2021-01-29T21:17:43.375Z
 status: resolved
 pinned: ""
