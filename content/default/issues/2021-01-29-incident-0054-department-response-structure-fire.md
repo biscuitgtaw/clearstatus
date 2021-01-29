@@ -19,6 +19,7 @@ Timeline:
 * \[21:33] - Primary Search started.
 * \[21:37] - RB-72, PR-1 arrived on scene.
 * \[21:40] - Primary Attack started.
+* \[21:45] - One casualty confirmed, no major injures. The person was brought out by Primary Search teams.
 
 ![](https://i.imgur.com/sjG0c5I.png)
 
