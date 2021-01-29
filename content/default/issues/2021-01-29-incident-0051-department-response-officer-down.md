@@ -4,8 +4,8 @@ title: "Incident #0051 - Department Response - Officer Down"
 date: 2021-01-29T19:34:45.554Z
 status: in_progress
 pinned: ""
-current_severity: monitoring
-max_severity: monitoring
+current_severity: disrupted
+max_severity: disrupted
 duration: ""
 resolved_on: ""
 affected:
