@@ -12,4 +12,8 @@ affected:
   - West Los Santos
 enableComments: false
 ---
-Responding Units: LP-3, RB-71, PR-1
+Timeline:
+
+* [20:52] - Lifeguards have deployed RRD-1 have made contact with the callers.
+
+Responding Units: LP-3, RB-71, PR-1, SWR-3, RRD-1
