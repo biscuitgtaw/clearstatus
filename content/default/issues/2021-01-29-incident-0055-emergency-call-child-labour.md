@@ -12,6 +12,6 @@ affected:
   - West Los Santos
 enableComments: false
 ---
-A Rescue Basic was called from Station 7 to assist with Child Labour, the Medical Crew arrived to the area of Del Perro and transported a mother to the hospital where further care was given to deliver the newborn.
+A Rescue Basic was called from Station 7 to assist with Child Labour, the Medical Crew arrived to the area of Del Perro and transported a female in labour to the hospital where further care was given to deliver the newborn.
 
 Responding Units: RB-71
