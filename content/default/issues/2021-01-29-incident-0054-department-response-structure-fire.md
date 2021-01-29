@@ -20,6 +20,8 @@ Timeline:
 * \[21:37] - RB-72, PR-1 arrived on scene.
 * \[21:40] - Primary Attack started.
 * \[21:45] - One casualty confirmed, no major injures. The person was brought out by Primary Search teams.
+* \[21:50] - Knockdown confirmed.
+* \[21:58] - Ventilation started.
 
 ![](https://i.imgur.com/sjG0c5I.png)
 
