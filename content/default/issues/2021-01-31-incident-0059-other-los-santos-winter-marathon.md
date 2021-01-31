@@ -7,7 +7,7 @@ pinned: ""
 current_severity: maintenance
 max_severity: maintenance
 duration: 2h
-resolved_on: ""
+resolved_on: 2021-01-31T18:02:50.154Z
 affected:
   - North Los Santos
   - West Los Santos
