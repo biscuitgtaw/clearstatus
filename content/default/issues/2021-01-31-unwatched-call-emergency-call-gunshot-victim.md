@@ -12,4 +12,6 @@ affected:
   - North Los Santos
 enableComments: false
 ---
+A Rescue Ambulance was dispatched from the LSFD HQ Staging Area to assist with a Gunshot Victim. After applying medical care to the victim, the person was transported to the hospital. It is unknown at this time if the shooting was at all related to the protests.
+
 Responding Units: RA-74
