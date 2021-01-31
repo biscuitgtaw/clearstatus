@@ -89,4 +89,4 @@ collections:
         required: false
         hint: "Description of the event as it happens and what you do about it. You can come back several times and update that description."
         widget: "markdown"
-        default: ""
+        default: "Responding Units: "

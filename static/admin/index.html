@@ -1,0 +1,426 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LSFD Live Admin Page</title>
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+<style type="text/css">/*
+                        _______
+                       /       \
+                      .==.    .==.
+                     ((  ))==((  ))
+                    / "=="    "=="\
+                   /____|| || ||___\
+       ________     ____    ________  ___    ___
+       |  ___  \   /    \   |  ___  \ |  |  /  /
+       |  |  \  \ /  /\  \  |  |  \  \|  |_/  /
+       |  |   )  /  /__\  \ |  |__/  /|  ___  \
+       |  |__/  /  ______  \|  ____  \|  |  \  \
+_______|_______/__/ ____ \__\__|___\__\__|___\__\____
+|  ___  \ |  ____/ /    \   |  ___  \ |  ____|  ___  \
+|  |  \  \|  |___ /  /\  \  |  |  \  \|  |___|  |  \  \
+|  |__/  /|  ____/  /__\  \ |  |   )  |  ____|  |__/  /
+|  ____  \|  |__/  ______  \|  |__/  /|  |___|  ____  \
+|__|   \__\____/__/      \__\_______/ |______|__|   \__\
+                https://darkreader.org
+*/
+/* User-Agent Style */
+html {
+    background-color: #181a1b !important;
+}
+html, body, input, textarea, select, button {
+    background-color: #181a1b;
+}
+html, body, input, textarea, select, button {
+    border-color: #736b5e;
+    color: #e8e6e3;
+}
+a {
+    color: #3391ff;
+}
+table {
+    border-color: #545b5e;
+}
+::placeholder {
+    color: #b2aba1;
+}
+input:-webkit-autofill,
+textarea:-webkit-autofill,
+select:-webkit-autofill {
+    background-color: #555b00 !important;
+    color: #e8e6e3 !important;
+}
+::-webkit-scrollbar {
+    background-color: #202324;
+    color: #aba499;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #454a4d;
+}
+::-webkit-scrollbar-thumb:hover {
+    background-color: #575e62;
+}
+::-webkit-scrollbar-thumb:active {
+    background-color: #484e51;
+}
+::-webkit-scrollbar-corner {
+    background-color: #181a1b;
+}
+* {
+    scrollbar-color: #202324 #454a4d;
+}
+::selection {
+    background-color: #004daa !important;
+    color: #e8e6e3 !important;
+}
+::-moz-selection {
+    background-color: #004daa !important;
+    color: #e8e6e3 !important;
+}
+
+/* Invert Style */
+.jfk-bubble.gtx-bubble, .captcheck_answer_label > input + img, embed[type="application/pdf"] {
+    filter: invert(100%) hue-rotate(180deg) contrast(90%) !important;
+}
+
+/* Variables Style */
+:root {
+   --darkreader-neutral-background: #131516;
+   --darkreader-neutral-text: #d8d4cf;
+   --darkreader-selection-background: #004daa;
+   --darkreader-selection-text: #e8e6e3;
+}
+
+/* Modified CSS */
+.uploadcare-tab-effects--effect-button {
+    border-color: transparent;
+    background-image: initial;
+    background-color: transparent;
+    color: rgb(211, 207, 202);
+    fill: rgb(211, 207, 202);
+}
+.uploadcare-tab-effects--effect-button:active,
+.uploadcare-tab-effects--effect-button:focus,
+.uploadcare-tab-effects--effect-button:hover {
+    fill: rgb(63, 159, 248);
+    color: rgb(63, 159, 248); 
+}
+.uploadcare-tab-effects--effect-button:focus, .uploadcare-tab-effects--effect-button:hover {
+    border-color: transparent; background-image: initial; background-color: transparent; 
+}
+.uploadcare-tab-effects--effect-button[aria-disabled="true"] {
+    border-color: transparent !important;
+    background-image: initial !important;
+    background-color: transparent !important;
+    color: rgb(204, 200, 193) !important;
+    fill: rgb(204, 200, 193) !important;
+}
+.uploadcare-tab-effects--effect-button::before {
+    background-image: initial;
+    background-color: transparent;
+}
+.uploadcare-tab-effects--effect-button_applied::before {
+    background-image: initial;
+    background-color: rgb(2, 86, 191);
+}
+@media (min-width: 760px) {
+    .uploadcare-tab-effects--effect-button:focus::after,
+    .uploadcare-tab-effects--effect-button:hover::after {
+        background-image: initial;
+        background-color: rgb(40, 44, 45);
+        color: rgb(211, 207, 202); 
+    }
+}
+input[type="range"].uploadcare-tab-effects--range__input:focus {
+    outline-color: rgba(2, 77, 171, 0.5);
+}
+:focus {
+    outline-color: rgb(186, 123, 0); 
+}
+[data-whatintent="mouse"] :focus {
+    outline-color: initial;
+}
+input {
+    border-color: initial;
+}
+body {
+    background-color: rgb(32, 34, 36);
+    color: rgb(155, 146, 133);
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    color: rgb(197, 192, 184);
+}
+h1 {
+    color: rgb(197, 192, 184);
+}
+a {
+    color: rgb(155, 146, 133);
+    text-decoration-color: initial;
+}
+.css-6mvk32-StyledLoader::before {
+    border-color: rgba(140, 130, 115, 0.1);
+}
+.css-6mvk32-StyledLoader::after {
+    border-color: rgb(39, 72, 139) transparent transparent;
+    box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 1px;
+}
+.css-155hzph-LoaderText {
+    color: rgb(157, 149, 136);
+}
+.css-1gx8wqc-NetlifyLogoIcon {
+    color: rgb(199, 194, 187);
+}
+.css-78ry9t-IconWrapper-NetlifyLogoIcon {
+    color: rgb(199, 194, 187);
+}
+.css-78ry9t-IconWrapper-NetlifyLogoIcon path:not(.no-fill),
+.css-78ry9t-IconWrapper-NetlifyLogoIcon circle:not(.no-fill),
+.css-78ry9t-IconWrapper-NetlifyLogoIcon polygon:not(.no-fill),
+.css-78ry9t-IconWrapper-NetlifyLogoIcon rect:not(.no-fill) {
+    fill: currentcolor;
+}
+.css-78ry9t-IconWrapper-NetlifyLogoIcon path.clipped {
+    fill: transparent;
+}
+.css-1qcpzq-LoginButton-button-default-gray-disabled {
+    border-color: initial;
+    box-shadow: rgba(54, 59, 70, 0.15) 0px 4px 12px 0px,
+    rgba(54, 59, 70, 0.25) 0px 1px 3px 0px;
+    background-color: rgb(93, 101, 105);
+    color: rgb(232, 230, 227);
+}
+.css-1qcpzq-LoginButton-button-default-gray-disabled:focus,
+.css-1qcpzq-LoginButton-button-default-gray-disabled:hover {
+    color: rgb(232, 230, 227);
+    background-color: rgb(70, 76, 79);
+}
+.css-1qcpzq-LoginButton-button-default-gray-disabled[disabled] {
+    background-color: rgb(32, 34, 36);
+    color: rgb(155, 146, 133);
+}
+.css-y7r3-AppHeader {
+    box-shadow: rgba(54, 59, 70, 0.05) 0px 2px 6px 0px,
+    rgba(54, 59, 70, 0.1) 0px 1px 3px 0px;
+    background-color: rgb(24, 26, 27);
+}
+.css-12zz42a-AppHeaderNavList {
+    list-style-image: initial;
+}
+.css-12yqrwa-AppHeaderNavLink-AppHeaderButton-button-buttonActive-buttonActive-buttonActive-buttonActive-AppHeaderButton {
+    border-color: initial;
+    background-image: none;
+    background-color: initial;
+    color: rgb(155, 147, 134);
+}
+.css-12yqrwa-AppHeaderNavLink-AppHeaderButton-button-buttonActive-buttonActive-buttonActive-buttonActive-AppHeaderButton .ei6fm2r1 {
+    color: rgb(189, 184, 175);
+}
+.css-12yqrwa-AppHeaderNavLink-AppHeaderButton-button-buttonActive-buttonActive-buttonActive-buttonActive-AppHeaderButton:hover,
+.css-12yqrwa-AppHeaderNavLink-AppHeaderButton-button-buttonActive-buttonActive-buttonActive-buttonActive-AppHeaderButton:active,
+.css-12yqrwa-AppHeaderNavLink-AppHeaderButton-button-buttonActive-buttonActive-buttonActive-buttonActive-AppHeaderButton:focus {
+    color: rgb(77, 140, 205);
+}
+.css-12yqrwa-AppHeaderNavLink-AppHeaderButton-button-buttonActive-buttonActive-buttonActive-buttonActive-AppHeaderButton:hover .ei6fm2r1,
+.css-12yqrwa-AppHeaderNavLink-AppHeaderButton-button-buttonActive-buttonActive-buttonActive-buttonActive-AppHeaderButton:active .ei6fm2r1,
+.css-12yqrwa-AppHeaderNavLink-AppHeaderButton-button-buttonActive-buttonActive-buttonActive-buttonActive-AppHeaderButton:focus .ei6fm2r1 {
+    color: rgb(77, 140, 205);
+}
+.css-12yqrwa-AppHeaderNavLink-AppHeaderButton-button-buttonActive-buttonActive-buttonActive-buttonActive-AppHeaderButton.header-link-active {
+    color: rgb(77, 140, 205);
+}
+.css-12yqrwa-AppHeaderNavLink-AppHeaderButton-button-buttonActive-buttonActive-buttonActive-buttonActive-AppHeaderButton.header-link-active .ei6fm2r1 {
+    color: rgb(77, 140, 205);
+}
+.css-tg1x8v-IconWrapper path:not(.no-fill),
+.css-tg1x8v-IconWrapper circle:not(.no-fill),
+.css-tg1x8v-IconWrapper polygon:not(.no-fill),
+.css-tg1x8v-IconWrapper rect:not(.no-fill) {
+    fill: currentcolor;
+}
+.css-tg1x8v-IconWrapper path.clipped {
+    fill: transparent;
+}
+.css-104dqk8-AppHeaderButton-button-buttonActive-buttonActive-buttonActive-buttonActive-AppHeaderButton {
+    border-color: initial;
+    background-image: none;
+    background-color: initial;
+    color: rgb(155, 147, 134);
+}
+.css-104dqk8-AppHeaderButton-button-buttonActive-buttonActive-buttonActive-buttonActive-AppHeaderButton .ei6fm2r1 {
+    color: rgb(189, 184, 175);
+}
+.css-104dqk8-AppHeaderButton-button-buttonActive-buttonActive-buttonActive-buttonActive-AppHeaderButton:hover,
+.css-104dqk8-AppHeaderButton-button-buttonActive-buttonActive-buttonActive-buttonActive-AppHeaderButton:active,
+.css-104dqk8-AppHeaderButton-button-buttonActive-buttonActive-buttonActive-buttonActive-AppHeaderButton:focus {
+    color: rgb(77, 140, 205);
+}
+.css-104dqk8-AppHeaderButton-button-buttonActive-buttonActive-buttonActive-buttonActive-AppHeaderButton:hover .ei6fm2r1,
+.css-104dqk8-AppHeaderButton-button-buttonActive-buttonActive-buttonActive-buttonActive-AppHeaderButton:active .ei6fm2r1,
+.css-104dqk8-AppHeaderButton-button-buttonActive-buttonActive-buttonActive-buttonActive-AppHeaderButton:focus .ei6fm2r1 {
+    color: rgb(77, 140, 205);
+}
+.css-7x6ig1-StyledDropdownButton-button-default-caret-caretDown-AppHeaderQuickNewButton-button-medium-gray {
+    border-color: initial;
+    background-color: rgb(93, 101, 105);
+    color: rgb(232, 230, 227);
+}
+.css-7x6ig1-StyledDropdownButton-button-default-caret-caretDown-AppHeaderQuickNewButton-button-medium-gray::after {
+    border-right-color: transparent;
+    border-left-color: transparent;
+    border-top-color: currentcolor;
+    border-bottom-color: initial;
+    color: currentcolor;
+}
+.css-7x6ig1-StyledDropdownButton-button-default-caret-caretDown-AppHeaderQuickNewButton-button-medium-gray:focus,
+.css-7x6ig1-StyledDropdownButton-button-default-caret-caretDown-AppHeaderQuickNewButton-button-medium-gray:hover {
+    color: rgb(232, 230, 227);
+    background-color: rgb(70, 76, 79);
+}
+.css-1u4rgvb-AvatarDropdownButton {
+    color: rgb(207, 203, 196);
+    background-color: transparent;
+}
+.css-eg8i4c-AvatarPlaceholderIcon-avatarImage {
+    color: rgb(207, 203, 196);
+    background-color: rgb(41, 44, 46);
+}
+.css-15yst2y-IconWrapper-AvatarPlaceholderIcon-avatarImage {
+    color: rgb(207, 203, 196);
+    background-color: rgb(41, 44, 46);
+}
+.css-15yst2y-IconWrapper-AvatarPlaceholderIcon-avatarImage path:not(.no-fill),
+.css-15yst2y-IconWrapper-AvatarPlaceholderIcon-avatarImage circle:not(.no-fill),
+.css-15yst2y-IconWrapper-AvatarPlaceholderIcon-avatarImage polygon:not(.no-fill),
+.css-15yst2y-IconWrapper-AvatarPlaceholderIcon-avatarImage rect:not(.no-fill) {
+    fill: currentcolor;
+}
+.css-15yst2y-IconWrapper-AvatarPlaceholderIcon-avatarImage path.clipped {
+    fill: transparent;
+}
+.css-1gj57a0-SidebarContainer-card {
+    box-shadow: rgba(54, 59, 70, 0.05) 0px 2px 6px 0px,
+    rgba(54, 59, 70, 0.1) 0px 1px 3px 0px;
+    background-color: rgb(24, 26, 27);
+}
+.css-npvq26-SidebarHeading {
+    color: rgb(197, 192, 184);
+}
+.css-1blbyw7-SearchInput {
+    background-color: rgb(32, 34, 36);
+}
+.css-1blbyw7-SearchInput:focus {
+    outline-color: initial;
+    box-shadow: rgb(45, 83, 158) 0px 0px 0px 2px inset;
+}
+.css-1lv5pus-SidebarNavList {
+    list-style-image: initial;
+}
+.css-u2webi-SidebarNavLink-sidebarNavLinkActive-SidebarNavLink {
+    border-left-color: rgb(48, 52, 54);
+}
+.css-u2webi-SidebarNavLink-sidebarNavLinkActive-SidebarNavLink:hover,
+.css-u2webi-SidebarNavLink-sidebarNavLinkActive-SidebarNavLink:active,
+.css-u2webi-SidebarNavLink-sidebarNavLinkActive-SidebarNavLink.sidebar-active {
+    color: rgb(77, 140, 205);
+    background-color: rgb(31, 33, 35);
+    border-left-color: rgb(41, 61, 133);
+}
+.css-1hvrgvd-CollectionTopContainer-card-cardTop {
+    box-shadow: rgba(54, 59, 70, 0.05) 0px 2px 6px 0px,
+    rgba(54, 59, 70, 0.1) 0px 1px 3px 0px;
+    background-color: rgb(24, 26, 27);
+}
+.css-1qfk5ut-CollectionTopNewButton-button-default-gray {
+    border-color: initial;
+    box-shadow: rgba(54, 59, 70, 0.15) 0px 4px 12px 0px,
+    rgba(54, 59, 70, 0.25) 0px 1px 3px 0px;
+    background-color: rgb(93, 101, 105);
+    color: rgb(232, 230, 227);
+}
+.css-1qfk5ut-CollectionTopNewButton-button-default-gray:focus,
+.css-1qfk5ut-CollectionTopNewButton-button-default-gray:hover {
+    color: rgb(232, 230, 227);
+    background-color: rgb(70, 76, 79);
+}
+.css-1fh4556-ViewControlsButton-button {
+    border-color: initial;
+    color: rgb(77, 140, 205);
+    background-color: transparent;
+}
+.css-1jfbwn6-ViewControlsButton-button {
+    border-color: initial;
+    color: rgb(189, 184, 175);
+    background-color: transparent;
+}
+.css-juk8nl-ControlButton {
+    color: rgb(77, 140, 205);
+}
+.css-58ai8s-StyledDropdownButton-button-default-caret-caretDown-Button-button-medium-grayText-ControlButton {
+    border-color: initial;
+    background-color: transparent;
+    color: rgb(77, 140, 205);
+}
+.css-58ai8s-StyledDropdownButton-button-default-caret-caretDown-Button-button-medium-grayText-ControlButton::after {
+    border-right-color: transparent;
+    border-left-color: transparent;
+    border-top-color: currentcolor;
+    border-bottom-color: initial;
+    color: currentcolor;
+}
+.css-1ub61q1 {
+    box-shadow: rgba(54, 59, 70, 0.15) 0px 4px 12px 0px,
+    rgba(54, 59, 70, 0.25) 0px 1px 3px 0px;
+    background-color: rgb(24, 26, 27);
+}
+.css-1ub61q1:focus {
+    outline-color: initial;
+}
+.css-1f3mf5k-StyledModal {
+    box-shadow: rgba(54, 59, 70, 0.15) 0px 4px 12px 0px,
+    rgba(54, 59, 70, 0.25) 0px 1px 3px 0px;
+    background-color: rgb(24, 26, 27);
+}
+.css-1f3mf5k-StyledModal:focus {
+    outline-color: initial;
+}
+.css-1cx9csd {
+    background-color: rgba(0, 0, 0, 0);
+}
+.css-1ztge6 {
+    background-color: rgba(0, 0, 0, 0.6);
+}
+.css-1pfpdnf {
+    background-color: rgba(0, 0, 0, 0);
+}
+.css-5wgw3f-ListCard-card {
+    box-shadow: rgba(54, 59, 70, 0.05) 0px 2px 6px 0px,
+    rgba(54, 59, 70, 0.1) 0px 1px 3px 0px;
+    background-color: rgb(24, 26, 27);
+}
+.css-1t9i08i-ListCardLink:hover {
+    background-color: rgb(24, 26, 27);
+}
+
+/* Override Style */
+.vimvixen-hint {
+    background-color: #7b5300 !important;
+    border-color: #d8b013 !important;
+    color: #f3e8c8 !important;
+}
+::placeholder {
+    opacity: 0.5 !important;
+}
+</style>
+</head>
+<body>
+<!-- Include the script that builds the page and powers Netlify CMS -->
+<script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+</body>
+</html>
