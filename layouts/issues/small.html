@@ -9,6 +9,9 @@
 {{ else if eq .Params.current_severity "monitoring" }}
 {{ $severityBgColor = .Site.Params.MonitoringSeverityBackground }}
 {{ $severityColor = .Site.Params.MonitoringSeverityColor }}
+{{ else if eq .Params.current_severity "maintenance" }}
+{{ $severityBgColor = .Site.Params.MaintenanceSeverityBackgroundd }}
+{{ $severityColor = .Site.Params.MaintenanceSeverityColor }}
 {{ end }}
 
 {{ $dateFormat := "January 2, 2006 at 3:04 PM" }}
