@@ -16,3 +16,5 @@ enableComments: false
 The Department of Cultural Affairs is partnering up with Eclipse Clinic to continue on a pursuit of wellness and health centered sporting events. The Los Santos Winter Marathon picks up where the Government left off last year from the Los Santos Summer Marathon with a new and improved route.
 
 The Los Santos Fire Department will provide a Rescue Ambulance to the event for any and all medical care needed during the run.
+
+Responding Units: RA-74, PR-1
