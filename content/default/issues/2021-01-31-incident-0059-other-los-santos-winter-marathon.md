@@ -2,7 +2,7 @@
 section: issue
 title: "Incident #0059 - Other - Los Santos Winter Marathon"
 date: 2021-01-31T17:00:00.000Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: maintenance
 max_severity: maintenance
