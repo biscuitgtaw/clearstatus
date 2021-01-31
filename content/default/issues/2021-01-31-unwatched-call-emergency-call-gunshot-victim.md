@@ -7,7 +7,7 @@ pinned: ""
 current_severity: disrupted
 max_severity: disrupted
 duration: ""
-resolved_on: ""
+resolved_on: 2021-01-31T21:22:06.799Z
 affected:
   - North Los Santos
 enableComments: false
