@@ -4,8 +4,8 @@ title: "Incident #0060 - Other - Protest"
 date: 2021-01-31T20:00:00.000Z
 status: scheduled
 pinned: ""
-current_severity: monitoring
-max_severity: monitoring
+current_severity: maintenance
+max_severity: maintenance
 duration: 2h
 resolved_on: ""
 affected:
