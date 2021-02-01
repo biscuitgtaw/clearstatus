@@ -14,4 +14,4 @@ enableComments: false
 ---
 A Rescue Basic has been dispatched to the Thirsty Devil Bar in Sandy Shores after a civilian reportedly suffered a fall. Firefighters are currently on scene providing assistance.
 
-Responding Units:
+Responding Units: RB-72
