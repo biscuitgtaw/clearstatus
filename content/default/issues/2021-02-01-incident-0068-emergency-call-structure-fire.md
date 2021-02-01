@@ -14,6 +14,10 @@ enableComments: false
 ---
 A Structure Fire has been reported at Kazanov Autos in Mission Row. Units are currently enroute.
 
-\[23:54] E-7 Arrived on scene, Primary Attack begins.
+\[23:54:05] E-7 Arrived on scene, Primary Attack begins.
+
+\[23:55:10] Q-7 Arrived on scene, Aerial Attack deployed.
+
+
 
 Responding Units: Q-7, E-7, PR-1
