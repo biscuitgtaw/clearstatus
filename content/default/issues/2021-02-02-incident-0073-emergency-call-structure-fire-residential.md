@@ -22,10 +22,14 @@ Timeline:
 * \[22:57] - Primary Attack commenced.
 * \[23:03] - E-7 arrived on scene.
 * \[23:03] - Primary search started.
+
 * \[23:05] - Fire cleared out on the roof.
+* \[23:10] - One victim confirmed.
+
 * \[23:17] - Firefighters not responding. (MAYDAY)
 * \[23:18] - RIC Team sent in for Firefighters in distress.
 * \[23:26] - Ventilation started.
+* \[23:36] - Firefighters in distress rescued and Victim brought out.
 
 ![](https://i.imgur.com/7RhauIp.png)
 
