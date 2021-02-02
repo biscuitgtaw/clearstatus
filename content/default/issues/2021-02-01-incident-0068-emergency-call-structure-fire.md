@@ -23,3 +23,5 @@ A Structure Fire has been reported at Kazanov Autos in Mission Row. Firefighters
 \[23:58:03] Primary Search started.
 
 Responding Units: Q-7, E-7, PR-1
+
+![](/images/uploads/gta-world-camera-2021-2-2-0-0-8.png)
