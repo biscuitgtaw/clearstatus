@@ -12,7 +12,7 @@ affected:
   - Central Los Santos
 enableComments: false
 ---
-A Structure Fire has been reported at Kazanov Autos in Mission Row. Units are currently enroute.
+A Structure Fire has been reported at Kazanov Autos in Mission Row. Firefighters are currently on scene tackling the fire.
 
 \[23:54:05] E-7 Arrived on scene, Primary Attack begins.
 
