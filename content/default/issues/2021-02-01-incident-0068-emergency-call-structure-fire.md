@@ -2,17 +2,17 @@
 section: issue
 title: "Incident #0068 - Emergency Call - Structure Fire"
 date: 2021-02-01T23:54:53.341Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: down
 max_severity: down
 duration: ""
-resolved_on: ""
+resolved_on: 2021-02-02T00:21:00.000Z
 affected:
   - Central Los Santos
 enableComments: false
 ---
-A Structure Fire has been reported at Kazanov Autos in Mission Row. Firefighters are currently on scene tackling the fire.
+
 
 \[23:54:05] E-7 Arrived on scene.
 
@@ -28,7 +28,9 @@ A Structure Fire has been reported at Kazanov Autos in Mission Row. Firefighters
 
 \[00:11:20] Ventilation started.
 
+\[00:21:00] Operation Concluded.
 
+A Rescue Basic, Engine and Quint were dispatched from Station 7 to assist with a reported Structure Fire at Kazanov Autos on Little Bighorn, La Mesa. Once the units arrived on scene they started with a Primary Search and confirmed the fire was confined to a small shed in the garage yard and there was no victims inside. The State Fire Marshals are investigating the cause of the fire.
 
 Responding Units: Q-7, E-7, PR-1
 
