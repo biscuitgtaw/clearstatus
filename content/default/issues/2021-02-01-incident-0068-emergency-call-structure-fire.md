@@ -20,6 +20,6 @@ A Structure Fire has been reported at Kazanov Autos in Mission Row. Firefighters
 
 \[23:55:10] Q-7 Arrived on scene.
 
-
+\[23:58:03] Primary Search started.
 
 Responding Units: Q-7, E-7, PR-1
