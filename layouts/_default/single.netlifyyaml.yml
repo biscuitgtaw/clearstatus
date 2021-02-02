@@ -43,10 +43,10 @@ collections:
         widget: "select"
         default: "monitoring"
         options:
-          - { label: "Unknown", value: "monitoring" }
           - { label: "Level 0 Incident", value: "ok" }
           - { label: "Level 1 Incident", value: "disrupted" }
-          - { label: "Level 2 Incident", value: "down" }
+          - { label: "Level 2 Incident", value: "monitoring" }
+          - { label: "Level 3 Incident", value: "down" }
           - { label: "Event", value: "maintenance" }
       - label: "Max severity"
         name: "max_severity"
@@ -54,10 +54,10 @@ collections:
         widget: "select"
         default: "monitoring"
         options:
-          - { label: "Unknown", value: "monitoring" }
           - { label: "Level 0 Incident", value: "ok" }
           - { label: "Level 1 Incident", value: "disrupted" }
-          - { label: "Level 2 Incident", value: "down" }
+          - { label: "Level 2 Incident", value: "monitoring" }
+          - { label: "Level 3 Incident", value: "down" }
           - { label: "Event", value: "maintenance" }
       - label: "Duration"
         name: "duration"

@@ -35,12 +35,12 @@
 # Components list status
 - id: disrupted
   translation: LVL1
-- id: down
+- id: monitoring
   translation: LVL2
+- id: down
+  translation: LVL3
 - id: ok
   translation: LVL0
-- id: monitoring
-  translation: Unknown
 - id: maintenance
   translation: Event
 
