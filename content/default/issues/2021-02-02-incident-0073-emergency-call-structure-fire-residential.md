@@ -17,6 +17,8 @@ Timeline:
 * \[22:50] - Units dispatched and are responding.
 * \[22:52] - First firefighters arrived on scene.
 * \[22:54] - Scene command established.
+* \[22:58] - Roles established.
+* \[23:00] - Exterior attack started.
 
 ![](https://i.imgur.com/7RhauIp.png)
 
