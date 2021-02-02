@@ -15,5 +15,6 @@ enableComments: false
 Timeline:
 
 * \[22:50] - Units dispatched and are responding.
+* \[22:52] - First firefighters arrived on scene.
 
-Responding Units: Q-7, RA-32, PR-1, RE-3, SFM
+Responding Units: Q-7, RA-32, PR-1, RE-3, RA-73, SFM, PIO
