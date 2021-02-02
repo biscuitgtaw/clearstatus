@@ -22,4 +22,4 @@ Timeline:
 * \[22:57] - Primary Attack commenced.
 ![](https://i.imgur.com/7RhauIp.png)
 
-Responding Units: Q-7, RA-32, PR-1, RE-3, RA-73, SFM, PIO
+Responding Units: Q-7, RA-32, PR-1, PIO, RE-3, RA-73, SFM-11, SFM-12
