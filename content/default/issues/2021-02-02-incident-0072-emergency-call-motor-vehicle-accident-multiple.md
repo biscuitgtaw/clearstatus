@@ -8,7 +8,7 @@ pinned: ""
 current_severity: monitoring
 max_severity: monitoring
 duration: ""
-resolved_on: ""
+resolved_on: 2021-02-02T22:05:36.381Z
 affected:
   - Central Los Santos
 enableComments: false
