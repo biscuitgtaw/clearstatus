@@ -13,4 +13,4 @@ affected:
 enableComments: false
 ---
 
-Responding Units: RB-72, E-7
+Responding Units: RA-72, E-7
