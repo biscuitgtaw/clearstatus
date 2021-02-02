@@ -23,8 +23,9 @@ Timeline:
 * \[23:03] - E-7 arrived on scene.
 * \[23:03] - Primary search started.
 * \[23:05] - Fire cleared out on the roof.
-* \[23:06] - One victim is confirmed to be inside of the building.
+* \[23:17] - Firefighters not responding. (MAYDAY)
 * \[23:18] - RIC Team sent in for Firefighters in distress.
+
 ![](https://i.imgur.com/7RhauIp.png)
 
-Responding Units: Q-7, RA-32, PR-1, PIO, RE-3, RA-73, SFM-11, SFM-12
+Responding Units: Q-7, RA-32, E-7, PR-1, PIO, RE-3, RA-73, SFM-11, SFM-12
