@@ -41,7 +41,7 @@ collections:
         name: "current_severity"
         hint: "How severe the incident currently is."
         widget: "select"
-        default: "monitoring"
+        default: "disrupted"
         options:
           - { label: "Level 0 Incident", value: "ok" }
           - { label: "Level 1 Incident", value: "disrupted" }
@@ -52,7 +52,7 @@ collections:
         name: "max_severity"
         hint: "What was the maximum severity of the event until its resolution. Used when the event is displayed in the Past events section."
         widget: "select"
-        default: "monitoring"
+        default: "disrupted"
         options:
           - { label: "Level 0 Incident", value: "ok" }
           - { label: "Level 1 Incident", value: "disrupted" }
