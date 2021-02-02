@@ -25,6 +25,7 @@ Timeline:
 * \[23:05] - Fire cleared out on the roof.
 * \[23:17] - Firefighters not responding. (MAYDAY)
 * \[23:18] - RIC Team sent in for Firefighters in distress.
+* \[23:26] - Ventilation started.
 
 ![](https://i.imgur.com/7RhauIp.png)
 
