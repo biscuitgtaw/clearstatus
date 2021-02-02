@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Unwatched Call - Department Response - Civilian Down (Shooting)
+title: "Incident #0070 - Department Response - Civilian Down (Shooting)"
 date: 2021-02-02T19:08:47.235Z
 status: in_progress
 pinned: ""
