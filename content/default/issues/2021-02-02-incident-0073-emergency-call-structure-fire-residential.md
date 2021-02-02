@@ -12,6 +12,8 @@ affected:
   - Blaine County
 enableComments: false
 ---
+Firefighters are currently fighting a Multi-story Residential Structure fire on Barbareno Road, Chumash. 
+
 Timeline:
 
 * \[22:50] - Units dispatched and are responding.
