@@ -29,7 +29,6 @@ Timeline:
 * \[23:26] - Ventilation started.
 * \[23:36] - Firefighters in distress rescued and Victim brought out.
 * \[23:44] - Knockdown Confirmed.
-* \[00:07] - Knockdown Confirmed.
 A Rescue Basic, Engine and Quint were dispatched from Station 7 and Station 3 to assist with a reported Structure Fire at a residential property on Barbareo Road, Chumash. Once the units arrived on scene they started with a Primary Search and confirmed there was one victim in the property. Firefighters on ventilation became unresponsive and efforts were directed towards rescue efforts. The Firefighters were rescued by the RIC team. However, the victim was declared DOA. The State Fire Marshals are investigating the cause of the fire.
 
 ![](https://i.imgur.com/7RhauIp.png)
