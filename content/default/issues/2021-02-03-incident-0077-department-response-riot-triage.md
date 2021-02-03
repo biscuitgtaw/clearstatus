@@ -12,4 +12,6 @@ affected:
   - West Los Santos
 enableComments: false
 ---
+Current Status: 1 RED, 2 GREEN
+
 Responding Units: RA-31, RA-32, RA-72, E-7, RE-3, Chief-3, SFM
