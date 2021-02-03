@@ -9,7 +9,7 @@ max_severity: maintenance
 duration: 2h
 resolved_on: ""
 affected:
-  - Central Los Santos
+  - West Los Santos
 enableComments: false
 ---
 A protest has been scheduled by the public in the area of Central Los Santos. The Los Santos Fire Department is on city-wide standby for assistance required during the protests and will respond to any incidents using caution and safety procedures.
