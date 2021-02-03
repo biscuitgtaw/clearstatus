@@ -12,4 +12,4 @@ affected:
   - West Los Santos
 enableComments: false
 ---
-Responding Units: RA-31, RA-32, E-7, RE-3, Chief-3, SFM
+Responding Units: RA-31, RA-32, RA-72, E-7, RE-3, Chief-3, SFM
