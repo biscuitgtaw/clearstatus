@@ -12,7 +12,9 @@ affected:
   - West Los Santos
 enableComments: false
 ---
-Current Status: 1 RED, 3 GREEN
+Total Count: 1 RED, 3 GREEN
+Current Count: 1 RED
+Medical Care Provided: 3 GREEN
 
 Timeline:
 
