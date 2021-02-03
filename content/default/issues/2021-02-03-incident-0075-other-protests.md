@@ -1,13 +1,13 @@
 ---
 section: issue
-title: "Incident #0075 - Other - Protests"
+title: "Incident #0075 - Other - Protests / Riots"
 date: 2021-02-03T20:00:00.000Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: maintenance
 max_severity: maintenance
 duration: 2h
-resolved_on: ""
+resolved_on: 2021-02-03T21:24:30.835Z
 affected:
   - West Los Santos
 enableComments: false
