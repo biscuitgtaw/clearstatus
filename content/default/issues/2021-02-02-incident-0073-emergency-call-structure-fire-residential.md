@@ -2,18 +2,16 @@
 section: issue
 title: "Incident #0073 - Emergency Call - Structure Fire (Residential)"
 date: 2021-02-02T22:42:44.763Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: down
 max_severity: down
 duration: ""
-resolved_on: ""
+resolved_on: 2021-02-03T00:07:51.179Z
 affected:
   - Blaine County
 enableComments: false
 ---
-Firefighters are currently fighting a Multi-story Residential Structure fire on Barbareno Road, Chumash. 
-
 Timeline:
 
 * \[22:50] - Units dispatched and are responding.
@@ -30,6 +28,9 @@ Timeline:
 * \[23:18] - RIC Team sent in for Firefighters in distress.
 * \[23:26] - Ventilation started.
 * \[23:36] - Firefighters in distress rescued and Victim brought out.
+* \[23:44] - Knockdown Confirmed.
+* \[00:07] - Knockdown Confirmed.
+A Rescue Basic, Engine and Quint were dispatched from Station 7 and Station 3 to assist with a reported Structure Fire at a residential property on Barbareo Road, Chumash. Once the units arrived on scene they started with a Primary Search and confirmed there was one victim in the property. Firefighters on ventilation became unresponsive and efforts were directed towards rescue efforts. The Firefighters were rescued by the RIC team. However, the victim was declared DOA. The State Fire Marshals are investigating the cause of the fire.
 
 ![](https://i.imgur.com/7RhauIp.png)
 
