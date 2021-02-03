@@ -2,7 +2,7 @@
 section: issue
 title: "Incident #0075 - Other - Protests"
 date: 2021-02-03T20:00:00.000Z
-status: scheduled
+status: in_progress
 pinned: ""
 current_severity: maintenance
 max_severity: maintenance
