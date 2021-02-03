@@ -14,7 +14,7 @@ enableComments: false
 ---
 Total Count: 1 RED, 3 GREEN
 Current Count: 1 RED
-Medical Care Provided: 3 GREEN
+Medical Care Concluded: 3 GREEN
 
 Timeline:
 
