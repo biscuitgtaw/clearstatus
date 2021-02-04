@@ -17,6 +17,7 @@ Timeline:
 * \[19:58] - Firefighters arrived on scene.
 * \[19:59] - Fire confirmed to be a small fire.
 * \[20:00] - Primary attack started.
+* \[20:02] - Knockdown confirmed.
 
 ![](https://i.imgur.com/pKcLsU6.jpg)
 
