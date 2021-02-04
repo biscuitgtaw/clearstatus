@@ -12,4 +12,4 @@ affected:
   - Blaine County
 enableComments: false
 ---
-Responding Units: Chief-3, RE-3, RA-31, UT-3
+Responding Units: Chief-3, RE-3, RA-31, UT-3, PR-1
