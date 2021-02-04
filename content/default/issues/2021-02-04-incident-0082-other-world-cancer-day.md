@@ -2,12 +2,12 @@
 section: issue
 title: "Incident #0082 - Other - World Cancer Day"
 date: 2021-02-04T19:00:00.000Z
-status: scheduled
+status: resolved
 pinned: ""
 current_severity: maintenance
 max_severity: maintenance
 duration: ""
-resolved_on: ""
+resolved_on: 2021-02-04T19:52:19.781Z
 affected:
   - North Los Santos
 enableComments: false
