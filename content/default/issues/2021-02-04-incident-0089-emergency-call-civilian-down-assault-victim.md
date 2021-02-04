@@ -12,4 +12,4 @@ affected:
   - North Los Santos
 enableComments: false
 ---
-Responding Units: RA-32
+Responding Units: RA-32, RB-71
