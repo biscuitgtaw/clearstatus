@@ -1,6 +1,6 @@
 ---
 section: issue
-title: "Incident #0088 - Department Response - Civilian Down (Unknown Causes)"
+title: "Incident #0088 - Department Response - Civilian Down (Assault Victim)"
 date: 2021-02-04T20:28:18.586Z
 status: resolved
 pinned: ""
