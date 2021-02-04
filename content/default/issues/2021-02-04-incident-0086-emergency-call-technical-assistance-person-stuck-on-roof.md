@@ -1,6 +1,6 @@
 ---
 section: issue
-title: "Incident #0086 - Emergency Call - Technical Assistance (Person Stuck on Roof)"
+title: "Incident #0086 - Emergency Call - Technical Assistance (Roof Rescue)"
 date: 2021-02-04T20:22:01.204Z
 status: in_progress
 pinned: ""
