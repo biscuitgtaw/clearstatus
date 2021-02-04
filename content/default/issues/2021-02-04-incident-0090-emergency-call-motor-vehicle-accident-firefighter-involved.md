@@ -13,4 +13,6 @@ affected:
   - Central Los Santos
 enableComments: false
 ---
-Responding Units: RA-72, E-7, RA-1
+An Engine, Two Rescue Ambulances, Chief and Support Services were dispatched from a fatal Motor Vehicle Accident involving a firefighter. The medical crew quickly identified two casualties, one being a firefighter and the other being a civilian. The Civilian was declared DOA and the firefighter was treated on scene and transported to a hospital. The cause of the accident and fault of the accident is being investigated by the LSPD and LSFD.
+
+Responding Units: RA-72, E-7, RA-1, Chief-3, SUP-1
