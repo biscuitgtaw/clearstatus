@@ -12,4 +12,5 @@ affected:
   - West Los Santos
 enableComments: false
 ---
+A Rescue Ambulance has been dispatched to the area of Vespucci Canals for a Motor Vehicle Accident, Firefighters are currently on scene tending to the patient 
 Responding Units: RA-31
