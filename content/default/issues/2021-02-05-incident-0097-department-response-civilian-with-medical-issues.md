@@ -7,9 +7,11 @@ pinned: ""
 current_severity: disrupted
 max_severity: disrupted
 duration: ""
-resolved_on: ""
+resolved_on: 2021-02-05T20:52:00.000Z
 affected:
   - South Los Santos
 enableComments: false
 ---
+(( Scene was voided by admins ))
+
 Responding Units: RB-71
