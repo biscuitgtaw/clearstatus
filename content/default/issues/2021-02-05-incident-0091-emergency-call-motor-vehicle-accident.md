@@ -12,5 +12,5 @@ affected:
   - Central Los Santos
 enableComments: false
 ---
-A Rescue Ambulance has been dispatched to respond from Station 7 for an Motor Vehicle Accident on Vespucci Boulevard, Mission Row. Firefighters are currently on scene providing medical assistance.
+A Rescue Ambulance has been dispatched to respond from Station 7 for an Motor Vehicle Accident on Vespucci Boulevard, Mission Row. The victim was provided with medical assistance and transported to hospital.
 Responding Units: RA-71, PR-2, SFM-5
