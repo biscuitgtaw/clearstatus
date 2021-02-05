@@ -12,4 +12,5 @@ affected:
   - South Los Santos
 enableComments: false
 ---
+A Rescue Ambulance has been dispatched from Station Seven after reports of a civilian down. Firefighters are currently on scene providing medical assistance.
 Responding Units: RA-71
