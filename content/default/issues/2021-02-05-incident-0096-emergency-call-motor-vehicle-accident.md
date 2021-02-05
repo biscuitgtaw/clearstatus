@@ -12,6 +12,6 @@ affected:
   - South Los Santos
 enableComments: false
 ---
-RB-71 has been dispatched to a motor vehicle accident Carson Avenue.
+RB-71 and E-7 have been dispatched to a motor vehicle accident Carson Ave.
 
-Responding Units: RB-71, PR-1
+Responding Units: RB-71, E-7, PR-1
