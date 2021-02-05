@@ -2,12 +2,12 @@
 section: issue
 title: Unwatched Call - Departmental Response - Civilian Down
 date: 2021-02-05T15:22:45.789Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: disrupted
 max_severity: disrupted
 duration: ""
-resolved_on: ""
+resolved_on: 2021-02-05T15:42:41.996Z
 affected:
   - South Los Santos
 enableComments: false
