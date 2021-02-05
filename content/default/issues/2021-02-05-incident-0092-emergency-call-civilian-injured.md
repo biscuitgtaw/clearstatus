@@ -7,9 +7,11 @@ pinned: ""
 current_severity: disrupted
 max_severity: disrupted
 duration: ""
-resolved_on: 2021-02-05T18:21:51.985Z
+resolved_on: 2021-02-05T18:22:21.114Z
 affected:
   - North Los Santos
 enableComments: false
 ---
-RB-72 responded to a 9-1-1 call in regards to a man being injured during a brawl at the Rockford Casino. The victim has received medical assistance and was afterwards transported to the hospital.
+A Rescue Basic was dispatched to respond from Station 7 for an Assault Victim. Once the medical crew arrived they identified a singular casualty and provided medical care to them. After providing medical care the patient refused further treatment and a transport to the hospital.
+
+Responding Units: RB-72
