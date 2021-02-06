@@ -9,7 +9,7 @@ max_severity: disrupted
 duration: ""
 resolved_on: ""
 affected:
-  - North Los Santos
+  - Blaine County
 enableComments: false
 ---
 Responding Units: E-7, RA-71, RB-72
