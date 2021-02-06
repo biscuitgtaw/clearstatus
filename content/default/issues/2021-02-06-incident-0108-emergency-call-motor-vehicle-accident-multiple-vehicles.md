@@ -4,8 +4,8 @@ title: "Incident #0108 - Emergency Call - Motor Vehicle Accident (Multiple Vehic
 date: 2021-02-06T20:01:56.601Z
 status: in_progress
 pinned: ""
-current_severity: disrupted
-max_severity: disrupted
+current_severity: monitoring
+max_severity: monitoring
 duration: ""
 resolved_on: ""
 affected:
