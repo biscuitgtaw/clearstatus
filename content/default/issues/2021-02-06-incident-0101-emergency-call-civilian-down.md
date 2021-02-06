@@ -12,4 +12,5 @@ affected:
   - North Los Santos
 enableComments: false
 ---
+A Rescue Ambulance was dispatched from Station Seven responding to reports of a Civilian Down on Portola Drive, Rockford Hills. The victim was confirmed DOA before the ambulance arrived and another victim on scene self transported to hospital.
 Responding Units: RA-71, PR-2
