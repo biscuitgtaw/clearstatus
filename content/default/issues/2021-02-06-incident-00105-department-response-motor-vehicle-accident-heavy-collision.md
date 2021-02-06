@@ -1,6 +1,6 @@
 ---
 section: issue
-title: "Incident #00105 - Department Response - Motor Vehicle Accident (Heavy
+title: "Incident #0105 - Department Response - Motor Vehicle Accident (Heavy
   Collision)"
 date: 2021-02-06T17:10:40.050Z
 status: in_progress
