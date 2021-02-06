@@ -16,4 +16,4 @@ Timeline:
 
 * [21:11] - Units dispatched to respond.
 
-Responding Units: E-7, BP-4, E-1, BP-7, Chief-3, PR-1
+Responding Units: E-7, BP-4, BP-1, BP-7, Chief-3, PR-1
