@@ -13,4 +13,4 @@ affected:
   - Central Los Santos
 enableComments: false
 ---
-Responding Units: RB-72, RA-71, E-7 
+Responding Units: RB-72, E-7 
