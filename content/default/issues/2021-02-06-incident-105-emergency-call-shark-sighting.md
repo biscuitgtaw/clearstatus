@@ -1,6 +1,6 @@
 ---
 section: issue
-title: "Incident #00105 - Emergency Call - Shark Sighting"
+title: "Incident #0105 - Emergency Call - Shark Sighting"
 date: 2021-02-06T15:00:03.305Z
 status: in_progress
 pinned: ""
