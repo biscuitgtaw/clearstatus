@@ -27,6 +27,14 @@ collections:
           - { label: "Resolved", value: "resolved" }
           - { label: "In progress", value: "in_progress" }
           - { label: "Scheduled", value: "scheduled" }
+      - label: "Toastr"
+        name: "toastr"
+        hint: "Site-wide notification system."
+        widget: "select"
+        default: "false"
+        options:
+          - { label: "Activated", value: "true" }
+          - { label: "Deactivated", value: "false" }
       - label: "Pinned"
         name: "pinned"
         required: false
