@@ -4,8 +4,8 @@ title: "Incident #0105 - Emergency Call - Shark Sighting (Search and Rescue)"
 date: 2021-02-06T15:00:03.305Z
 status: in_progress
 pinned: ""
-current_severity: monitoring
-max_severity: monitoring
+current_severity: down
+max_severity: down
 duration: ""
 resolved_on: ""
 affected:
