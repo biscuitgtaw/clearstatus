@@ -15,5 +15,6 @@ enableComments: false
 Timeline:
 
 * [21:11] - Units dispatched.
+* [21:18] - BP-4 arrived on scene, deploying ATV.
 
 Responding Units: E-7, BP-4, BP-1, BP-7, Chief-3, PR-1
