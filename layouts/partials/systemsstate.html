@@ -25,12 +25,12 @@
     {{ if $thisIsDown }}
         {{ $currentSeverity = "down"}}
         {{ $currentSeverityColor = "text-red-dark"}}
-    {{ else if $thisIsDisrupted}}
-        {{ $currentSeverity = "disrupted"}}
-        {{ $currentSeverityColor = "text-orange"}}
     {{ else if $thisIsMonitoring}}
         {{ $currentSeverity = "monitoring"}}
         {{ $currentSeverityColor = "text-orange-dark"}}
+    {{ else if $thisIsDisrupted}}
+        {{ $currentSeverity = "disrupted"}}
+        {{ $currentSeverityColor = "text-orange"}}
     {{ else if $thisIsMaintenance}}
         {{ $currentSeverity = "maintenance"}}
         {{ $currentSeverityColor = "text-grey-darkest"}}
