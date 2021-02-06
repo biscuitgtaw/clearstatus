@@ -12,4 +12,5 @@ affected:
   - West Los Santos
 enableComments: false
 ---
-Responding Units: RB-71, RA-72
+A Rescue Basic was dispatched from Station Seven responding to reports of a Motor Vehicle Accident on San Andreas Avenue, Vespucci Canals. Firefighters on scene begun giving medical assistant to the patient before ALS was paged for and a Rescue Ambulance attended to help stabilise the patient for hospital transport.
+Responding Units: RB-71, RA-72, PR-2
