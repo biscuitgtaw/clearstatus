@@ -5,8 +5,8 @@ title: "Incident #00105 - Department Response - Motor Vehicle Accident (Heavy
 date: 2021-02-06T17:10:40.050Z
 status: in_progress
 pinned: ""
-current_severity: disrupted
-max_severity: disrupted
+current_severity: monitoring
+max_severity: monitoring
 duration: ""
 resolved_on: ""
 affected:
