@@ -4,8 +4,8 @@ title: "Incident #0113 - Department Response - Multiple Officers Down (Shooting)
 date: 2021-02-06T22:25:38.306Z
 status: in_progress
 pinned: ""
-current_severity: disrupted
-max_severity: disrupted
+current_severity: monitoring
+max_severity: monitoring
 duration: ""
 resolved_on: ""
 affected:
