@@ -13,4 +13,4 @@ affected:
   - South Los Santos
 enableComments: false
 ---
-Responding Units: RA-71, E-7, PR-1
+Responding Units: RA-71, E-7, PR-1, RA-61
