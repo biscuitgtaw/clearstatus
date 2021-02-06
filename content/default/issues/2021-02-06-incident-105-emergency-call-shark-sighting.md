@@ -12,4 +12,4 @@ affected:
   - West Los Santos
 enableComments: false
 ---
-Responding Units: COPTER-1, LP-3, LP-1, SWR-3, RA-72
+Responding Units: COPTER-1, LP-3, LP-1, SWR-3, RA-72, RWC-1
