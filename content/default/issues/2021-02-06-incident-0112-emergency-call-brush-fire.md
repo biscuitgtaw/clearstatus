@@ -5,7 +5,7 @@ date: 2021-02-06T21:11:32.406Z
 status: resolved
 pinned: ""
 current_severity: disrupted
-max_severity: down
+max_severity: disrupted
 duration: ""
 resolved_on: 2021-02-06T21:27:33.649Z
 affected:
