@@ -2,12 +2,12 @@
 section: issue
 title: "Incident #0117 - Other - Gutter and Blood Kanjo Cup"
 date: 2021-02-07T16:00:00.000Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: maintenance
 max_severity: maintenance
 duration: 3h
-resolved_on: ""
+resolved_on: 2021-02-07T17:54:55.638Z
 affected:
   - North Los Santos
   - Blaine County
