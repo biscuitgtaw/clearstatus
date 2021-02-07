@@ -2,7 +2,7 @@
 section: issue
 title: "Incident #0117 - Other - Gutter and Blood Kanjo Cup"
 date: 2021-02-07T16:00:00.000Z
-status: scheduled
+status: in_progress
 pinned: ""
 current_severity: maintenance
 max_severity: maintenance
