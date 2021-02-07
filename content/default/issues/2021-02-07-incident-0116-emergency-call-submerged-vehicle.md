@@ -12,4 +12,5 @@ affected:
   - South Los Santos
 enableComments: false
 ---
-Responding Units: RB-73, PR-1
+Multiple units have been dispatched to Buccaneer way in regards to a submerged vehicle with victims inside. Rescue divers are currently working on extracting the victims.
+Responding Units: RB-73, RRD-1, SWR-3 PR-1
