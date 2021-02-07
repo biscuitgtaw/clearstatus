@@ -13,4 +13,4 @@ affected:
 enableComments: false
 ---
 Multiple units have been dispatched to Buccaneer way in regards to a submerged vehicle with victims inside. Rescue divers are currently working on extracting the victims from the vehicle.
-Responding Units: RB-73, RRD-1, SWR-3 PR-1
+Responding Units: RB-73, RRD-1, RRD-2, RWC-1, SWR-3 PR-1
