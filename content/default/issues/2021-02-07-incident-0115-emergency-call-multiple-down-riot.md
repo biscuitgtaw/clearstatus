@@ -12,6 +12,6 @@ affected:
   - Blaine County
 enableComments: false
 ---
-Multiple Rescue Ambulances were dispatched to the Twin Towers Correctional Facility in regards to a riot, one victim was pronounced dead on arrival. Two other victims received medical assistance. Both victims remain in the infirmary for their recovery.
+Multiple Rescue Ambulances were dispatched to the Twin Towers Correctional Facility in regards to a riot, one victim was pronounced dead on arrival. Two other victims received medical assistance. Both victims received further care by infirmary staff.
 
 Responding Units: RA-1, RB-71, RA-72, RB-73, RA-4, PR-1
