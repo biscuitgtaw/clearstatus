@@ -12,6 +12,6 @@ affected:
   - North Los Santos
 enableComments: false
 ---
-Multiple units have been dispatched to Tongva Drive in regards to a motorvehicle accident.
+Multiple units have been dispatched to Tongva Drive in regards to a motorvehicle accident. Two vehicles were involved in the accident. One victim was able to get out of the vehicle, the other victim is being extracted by the engine crew.
 
 Responding Units: RB-32, E-7, PR-1
