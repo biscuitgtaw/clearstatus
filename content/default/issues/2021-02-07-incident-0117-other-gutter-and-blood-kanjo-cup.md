@@ -1,12 +1,12 @@
 ---
 section: issue
 title: "Incident #0117 - Other - Gutter and Blood Kanjo Cup"
-date: 2021-02-07T15:18:43.923Z
-status: in_progress
+date: 2021-02-07T16:00:00.000Z
+status: scheduled
 pinned: ""
 current_severity: maintenance
 max_severity: maintenance
-duration: ""
+duration: 3h
 resolved_on: ""
 affected:
   - North Los Santos
