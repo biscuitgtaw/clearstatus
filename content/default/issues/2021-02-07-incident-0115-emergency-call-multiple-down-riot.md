@@ -4,8 +4,8 @@ title: "Incident #0115 - Emergency Call - Multiple Down(Riot)"
 date: 2021-02-07T00:29:49.691Z
 status: in_progress
 pinned: ""
-current_severity: monitoring
-max_severity: monitoring
+current_severity: down
+max_severity: down
 duration: ""
 resolved_on: ""
 affected:
