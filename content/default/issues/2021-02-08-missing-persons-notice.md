@@ -3,7 +3,7 @@ section: issue
 title: Missing Persons Notice
 date: 2021-02-08T19:05:24.169Z
 status: in_progress
-pinned: top
+pinned: belowheader
 current_severity: ok
 max_severity: ok
 duration: ""
