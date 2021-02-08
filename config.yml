@@ -66,7 +66,7 @@ params:
   disqusShortname: lsfd
 
   # Layout
-  eventsPerPage: 10
+  eventsPerPage: 100
 
 ############################################################
 ## More default config. in /config/_default/params.yml
