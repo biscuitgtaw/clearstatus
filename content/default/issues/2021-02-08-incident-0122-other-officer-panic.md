@@ -12,11 +12,4 @@ affected:
   - North Los Santos
 enableComments: false
 ---
-Timeline:
-
-* \[22:46] - Fire Rescue Crews arrived on scene.
-* \[22:50] - Vehicle Fire confirmed.
-* \[22:51] - Two casualties identified, one DOA.
-* \[22:53] - Medical crews are providing medical care for the other casualty.
-
 Responding Units: RB-32, E-7
