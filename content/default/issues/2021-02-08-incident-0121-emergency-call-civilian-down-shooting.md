@@ -12,4 +12,6 @@ affected:
   - South Los Santos
 enableComments: false
 ---
+A Rescue Basic and Rescue Engine were dispatched to the area of Grove Street for a Civilian Down from a shooting, after responding, firefighters quickly identified a singular casualty and attempted to provide medical aid to them. Shortly after, they were declared DOA.
+
 Responding Units: RB-31, RE-3
