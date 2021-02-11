@@ -3,7 +3,7 @@ section: issue
 title: There are no active PR reporters on duty
 date: 2021-02-11T22:08:40.793Z
 status: in_progress
-pinned: ""
+pinned: top
 current_severity: ok
 max_severity: ok
 duration: ""
