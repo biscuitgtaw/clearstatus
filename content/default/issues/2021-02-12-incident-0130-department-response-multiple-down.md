@@ -1,11 +1,11 @@
 ---
 section: issue
-title: "Incident #0130 - Department Response - Multiple Down"
+title: "Incident #0130 - Department Response - Multiple Down (Unknown Causes)"
 date: 2021-02-12T20:30:40.397Z
 status: in_progress
 pinned: ""
-current_severity: disrupted
-max_severity: disrupted
+current_severity: monitoring
+max_severity: monitoring
 duration: ""
 resolved_on: ""
 affected:
