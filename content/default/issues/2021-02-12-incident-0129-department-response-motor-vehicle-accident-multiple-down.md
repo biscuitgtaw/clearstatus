@@ -12,4 +12,4 @@ affected:
   - West Los Santos
 enableComments: false
 ---
-Responding Units: RB-1
+Responding Units: RB-1, RB-71
