@@ -12,4 +12,4 @@ affected:
   - South Los Santos
 enableComments: false
 ---
-Responding Units: RA-31
+Responding Units: RA-31, RB-71
