@@ -12,4 +12,4 @@ affected:
   - West Los Santos
 enableComments: false
 ---
-Responding Units: RA-
+Responding Units: RA-71, RA-31
