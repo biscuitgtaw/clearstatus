@@ -13,6 +13,7 @@ affected:
 enableComments: false
 ---
 Timeline:
+
 * \[22:23] - Units Dispatched.
 * \[22:23] - Fire identified, backup call sent out.
 * \[22:30] - Primary attack started
