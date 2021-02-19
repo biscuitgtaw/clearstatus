@@ -13,11 +13,11 @@ affected:
 enableComments: false
 ---
 Timeline:
-* [22:23] - Units Dispatched.
-* [22:23] - Fire identified, backup call sent out.
-* [22:30] - Primary attack started
-* [22:36] - RE-3 arrived on scene.
-* [22:36] - Squad-3 arrived on scene.
+* \[22:23] - Units Dispatched.
+* \[22:23] - Fire identified, backup call sent out.
+* \[22:30] - Primary attack started
+* \[22:36] - RE-3 arrived on scene.
+* \[22:36] - Squad-3 arrived on scene.
 
 ![](https://i.imgur.com/2kkWdET.png)
 
