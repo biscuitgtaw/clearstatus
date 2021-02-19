@@ -12,4 +12,4 @@ affected:
   - North Los Santos
 enableComments: false
 ---
-Responding Units: RB-73, E-7
+Responding Units: RB-73, E-7, UT-3
