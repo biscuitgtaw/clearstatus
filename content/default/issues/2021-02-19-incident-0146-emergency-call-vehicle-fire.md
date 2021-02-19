@@ -19,6 +19,7 @@ Timeline:
 * \[22:30] - Primary attack started
 * \[22:36] - RE-3 arrived on scene.
 * \[22:36] - Squad-3 arrived on scene.
+* \[22:55] - Knockdown confirmed.
 
 ![](https://i.imgur.com/2kkWdET.png)
 
