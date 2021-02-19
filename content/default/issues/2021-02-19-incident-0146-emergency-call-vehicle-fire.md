@@ -14,5 +14,6 @@ enableComments: false
 ---
 Timeline:
 * [22:23] - Units Dispatched.
+* [22:23] - Fire identified, backup call sent out.
 
 Responding Units: E-7, PR-2
