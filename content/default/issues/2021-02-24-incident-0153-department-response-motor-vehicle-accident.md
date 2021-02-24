@@ -2,12 +2,12 @@
 section: issue
 title: "Incident #0153 - Department Response - Motor Vehicle Accident"
 date: 2021-02-24T20:10:34.029Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: disrupted
 max_severity: disrupted
 duration: ""
-resolved_on: ""
+resolved_on: 2021-02-24T20:31:50.226Z
 affected:
   - North Los Santos
 enableComments: false
