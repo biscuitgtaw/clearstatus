@@ -4,10 +4,10 @@ title: "Incident #0155 - Department Response - Structure Fire"
 date: 2021-02-25T01:18:48.837Z
 status: in_progress
 pinned: ""
-current_severity: down
-max_severity: down
+current_severity: monitoring
+max_severity: monitoring
 duration: ""
-resolved_on: ""
+resolved_on: 2021-02-25T02:09:47.084Z
 affected:
   - South Los Santos
 enableComments: false
