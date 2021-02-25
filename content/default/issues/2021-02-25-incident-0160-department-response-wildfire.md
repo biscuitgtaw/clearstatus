@@ -28,6 +28,8 @@ enableComments: false
 
 \[22:49] - RE-3 on scene.
 
+\[23:14] - Knockdown Confirmed.
+
 ![](/images/uploads/gta-world-camera-2021-2-25-22-56-36.png)
 
 Responding Units: CHIEF-3, BP-7, BP-4, E-7, RE-3, COPTER-3
