@@ -19,6 +19,6 @@ enableComments: false
 [01:24] - Primary attack commenced.
 [01:32] - E-1 on scene.
 
-Responding Units: E-1, RA-74, E-7, Q-7, PR-1
+Responding Units: E-1, RA-74, E-7, Q-7
 
 
