@@ -12,4 +12,13 @@ affected:
   - South Los Santos
 enableComments: false
 ---
-Responding Units: E-7, Q-7
+[01:06] - Units Dispatched.
+[01:15] - RA-74 on scene.
+[01:20] - E-7 on scene.
+[01:23] - Q-7 on scene.
+[01:24] - Primary attack commenced.
+[01:32] - E-1 on scene.
+
+Responding Units: E-1, RA-74, E-7, Q-7, PR-1
+
+
