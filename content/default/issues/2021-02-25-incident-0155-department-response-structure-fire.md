@@ -2,7 +2,7 @@
 section: issue
 title: "Incident #0156 - Department Response - Structure Fire"
 date: 2021-02-25T01:18:48.837Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: monitoring
 max_severity: monitoring
