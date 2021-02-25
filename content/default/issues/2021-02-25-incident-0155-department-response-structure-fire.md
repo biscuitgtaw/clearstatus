@@ -17,7 +17,10 @@ enableComments: false
 [01:20] - E-7 on scene.
 [01:23] - Q-7 on scene.
 [01:24] - Primary attack commenced.
+[23:25] - Primary search commenced.
 [01:32] - E-1 on scene.
+[01:33] - Knockdown Confirmed.
+[01:34] - Ventilation commenced.
 
 Responding Units: E-1, RA-74, E-7, Q-7
 
