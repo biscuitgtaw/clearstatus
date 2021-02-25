@@ -12,4 +12,4 @@ affected:
   - West Los Santos
 enableComments: false
 ---
-Responding Units: USAR-3
+Responding Units: USAR-3, SWR-3
