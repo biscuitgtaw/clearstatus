@@ -4,8 +4,8 @@ title: "Incident #0155 - Department Response - Structure Fire"
 date: 2021-02-25T01:18:48.837Z
 status: in_progress
 pinned: ""
-current_severity: disrupted
-max_severity: disrupted
+current_severity: down
+max_severity: down
 duration: ""
 resolved_on: ""
 affected:
