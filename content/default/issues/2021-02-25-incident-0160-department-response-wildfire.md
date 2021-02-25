@@ -22,4 +22,6 @@ enableComments: false
 
 \[22:32] - BP-4 on scene.
 
+\[22:34] - UT-7 on scene.
+
 Responding Units: CHIEF-3, BP-7, BP-4, E-7, RE-3, COPTER-3
