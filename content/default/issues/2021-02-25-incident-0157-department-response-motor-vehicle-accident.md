@@ -12,4 +12,6 @@ affected:
   - North Los Santos
 enableComments: false
 ---
+![](https://i.imgur.com/ZyJdnTF.jpg)
+
 Responding Units: RA-72, RE-3
