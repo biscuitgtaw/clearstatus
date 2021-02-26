@@ -12,4 +12,6 @@ affected:
   - West Los Santos
 enableComments: false
 ---
+A Rescue Basic and Rescue Ambulance were dispatched from Station 1 and Station 7 to a Mass Casualty incident on Innovation Courts, Vespucci Canals. On arrival, Firefighters declared all six victims DOA.
+
 Responding Units: RA-1, RA-71
