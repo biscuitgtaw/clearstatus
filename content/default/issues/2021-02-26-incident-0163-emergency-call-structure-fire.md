@@ -12,4 +12,4 @@ affected:
   - South Los Santos
 enableComments: false
 ---
-Responding Units: RA-32, PR-1, PR-2, E-7, SFM
+Responding Units: RA-32, PR-1, PR-2, E-7, Q-7, SFM
