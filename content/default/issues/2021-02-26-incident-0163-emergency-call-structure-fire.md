@@ -2,7 +2,7 @@
 section: issue
 title: "Incident #0163 - Emergency Call - Structure Fire"
 date: 2021-02-26T22:45:08.997Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: down
 max_severity: down
