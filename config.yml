@@ -58,7 +58,7 @@ params:
   description_footer: "This website was created using a framework called clearstatus, view the source code of the website <a class='text-grey-darkest' href='https://github.com/biscuitgtaw/clearstatus' >here</a>."
   description_header: "Information about the <a class='text-grey-darkest' title='Los Santos Fire Department' href='https://lsfd.gta.world/'>Los Santos Fire Department</a> and their operations.<br />Follow us <a class='text-grey-darkest' title='Visit our page on Facebrower' href='https://face.gta.world/pages/LSFire'>on Facebrowser</a> for more detailed information about our incidents.<br/><a class='text-grey-darkest' href='%s' >Subscribe via RSS</a>"
 
-  copyrightHolder: "GTA:World"
+  copyrightHolder: "LSFD.Live"
 
   # Disqus commenting per issue: set your Disqus shortname here
   # Leave empty for no discussion at all.
