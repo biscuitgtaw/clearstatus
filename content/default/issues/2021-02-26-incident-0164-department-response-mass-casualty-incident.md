@@ -13,6 +13,6 @@ affected:
 enableComments: false
 ---
 Reported Information:
-* [23:01] - 1 ORANGE TAG, 1 RED TAG, 1 GREEN TAG, 2 BLACK TAG
+* [MCI] - 1 ORANGE TAG, 1 RED TAG, 1 GREEN TAG, 2 BLACK TAG
 
 Responding Units: RA-32, RA-71
