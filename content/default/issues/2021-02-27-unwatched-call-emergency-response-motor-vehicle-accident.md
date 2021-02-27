@@ -12,4 +12,6 @@ affected:
   - South Los Santos
 enableComments: false
 ---
+A Rescue Basic has been dispatched from Station Three to Strawberry Avenue, Davis to reports of a civilian struck by a vehicle. Firefighters are currently on scene attending to the victim.
+
 Responding Units: RB-31
