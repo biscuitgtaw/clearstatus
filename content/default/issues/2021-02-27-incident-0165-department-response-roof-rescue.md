@@ -12,4 +12,6 @@ affected:
   - Central Los Santos
 enableComments: false
 ---
-Responding Units: RA-1, RA-31, Q-7, PR-2
+A Rescue Ambulance, Rescue Basic and Quint was dispatched to Pillbox Medical Center, Pillbox Hill to reports of a civilian stuck on the Eastern roof of the medical centre. Firefighters are currently on scene assisting the civilian down from the building.
+
+Responding Units: RA-1, RB-31, Q-7, PR-2
