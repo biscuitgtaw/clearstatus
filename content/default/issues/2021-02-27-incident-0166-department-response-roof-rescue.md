@@ -2,12 +2,12 @@
 section: issue
 title: "Incident #0167 - Department Response - Roof Rescue"
 date: 2021-02-27T16:18:21.992Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: disrupted
 max_severity: disrupted
 duration: ""
-resolved_on: ""
+resolved_on: 2021-02-27T16:51:17.096Z
 affected:
   - South Los Santos
 enableComments: false
