@@ -7,7 +7,7 @@ pinned: ""
 current_severity: disrupted
 max_severity: disrupted
 duration: ""
-resolved_on: 2021-02-27T16:02:29.972Z
+resolved_on: 2021-02-27T15:40:00.000Z
 affected:
   - Central Los Santos
 enableComments: false
