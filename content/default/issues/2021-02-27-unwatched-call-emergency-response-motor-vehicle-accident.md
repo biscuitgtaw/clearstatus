@@ -2,7 +2,7 @@
 section: issue
 title: "Incident #0166 - Emergency Response - Motor Vehicle Accident"
 date: 2021-02-27T16:16:06.877Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: disrupted
 max_severity: disrupted
