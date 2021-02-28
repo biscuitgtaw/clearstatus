@@ -22,4 +22,4 @@ Timeline:
 
 ![](https://i.imgur.com/iqvLD2k.png)
 
-Responding Units: PIO, Q-7, RE-3, Chief-3, USAR-3, RA-32, SFM
+Responding Units: PIO, Q-7, RE-3, Chief-3, USAR-3, RA-32, E-6, SFM
