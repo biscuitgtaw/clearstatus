@@ -1,6 +1,6 @@
 ---
 section: issue
-title: "Incident #0170 - Department Response - "
+title: "Incident #0170 - Department Response - Civilian Down (Assault)"
 date: 2021-02-28T22:56:50.320Z
 status: in_progress
 pinned: ""
@@ -12,4 +12,6 @@ affected:
   - South Los Santos
 enableComments: false
 ---
+
+
 Responding Units: RA-32
