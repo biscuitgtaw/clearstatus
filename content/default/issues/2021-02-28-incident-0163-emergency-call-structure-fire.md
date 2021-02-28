@@ -17,6 +17,8 @@ Timeline:
 * \[20:09] - Units Dispatched.
 * \[20:12] - First units (RA-32 and PIO) arrived on scene.
 * \[20:19] - USAR-3, Chief-3 and RE-3 arrived on scene.
+* \[20:27] - Primary Search started.
+* \[20:28] - Start of exterior attack.
 
 ![](https://i.imgur.com/iqvLD2k.png)
 
