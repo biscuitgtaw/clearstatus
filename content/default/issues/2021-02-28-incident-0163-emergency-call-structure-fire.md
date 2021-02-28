@@ -17,4 +17,4 @@ Timeline:
 * [20:09] - Units Dispatched.
 * [20:12] - First unites arrived on scene.
 
-Responding Units: PIO, Chief-3, E-7, RE-3, Q-7, RA-32
+Responding Units: PIO, Q-7, RE-3, Chief-3, USAR-3
