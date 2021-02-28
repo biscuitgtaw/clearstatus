@@ -27,7 +27,10 @@ Timeline:
 * \[20:40] - RA-71 arrived on scene.
 * \[20:44] - Firefighters were extracted out of the building by RIC, no loss of life reported.
 * \[20:44] - Another flashover confirmed.
-* \[20:59] - Primary Search resumed.
+* \[20:59] - Primary Search/Attack resumed.
+* \[20:19] - Primary Attack concluded.
+* \[21:19] - Knockdown Confirmed.
+* \[21:21] - Overhaul Started.
 
 ![](https://i.imgur.com/iqvLD2k.png)
 
