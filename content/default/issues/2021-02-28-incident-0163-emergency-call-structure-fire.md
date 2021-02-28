@@ -21,8 +21,11 @@ Timeline:
 * \[20:27] - Primary Search started.
 * \[20:27] - E-6 arrived on scene.
 * \[20:28] - Start of exterior attack.
+* \[20:36] - Primary Search cancelled.
 * \[20:36] - Mayday Declared, Firefighters in trouble. RIC Deployed.
 * \[20:36] - Flashover confirmed.
+* \[20:44] - Firefighters were extracted out of the building by RIC, no loss of life reported.
+* \[20:44] - Another flashover confirmed.
 
 ![](https://i.imgur.com/iqvLD2k.png)
 
