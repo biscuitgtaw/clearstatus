@@ -12,4 +12,4 @@ affected:
   - East Los Santos
 enableComments: false
 ---
-Responding Units: PIO
+Responding Units: PIO, Chief-3, E-7, RE-3, Q-7, RA-32
