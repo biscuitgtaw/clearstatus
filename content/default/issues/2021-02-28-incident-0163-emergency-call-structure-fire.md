@@ -14,9 +14,10 @@ enableComments: false
 ---
 Timeline:
 
-* [20:09] - Units Dispatched.
-* [20:12] - First unites arrived on scene.
+* \[20:09] - Units Dispatched.
+* \[20:12] - First units (RA-32 and PIO) arrived on scene.
+* \[20:19] - USAR-3, Chief-3 and RE-3 arrived on scene.
 
 ![](https://i.imgur.com/SpuVIFi.png)
 
-Responding Units: PIO, Q-7, RE-3, Chief-3, USAR-3
+Responding Units: PIO, Q-7, RE-3, Chief-3, USAR-3, RA-32
