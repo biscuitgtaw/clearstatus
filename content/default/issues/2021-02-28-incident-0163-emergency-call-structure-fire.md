@@ -29,8 +29,9 @@ Timeline:
 * \[20:44] - Another flashover confirmed.
 * \[20:59] - Primary Search/Attack resumed.
 * \[20:19] - Primary Attack concluded.
-* \[21:19] - Knockdown Confirmed.
-* \[21:21] - Overhaul Started.
+* \[21:19] - Knockdown confirmed.
+* \[21:21] - Overhaul started.
+* \[21:25] - Operation concluded.
 
 ![](https://i.imgur.com/iqvLD2k.png)
 
