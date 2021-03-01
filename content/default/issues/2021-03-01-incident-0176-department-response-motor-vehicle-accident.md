@@ -12,4 +12,6 @@ affected:
   - West Los Santos
 enableComments: false
 ---
+A Rescue Ambulance was dispatched from Station 7 to reports of a Motor Vehicle Accident on West Eclipse Boulevard, Del Perro. Firefighters are currently on scene providing assistance.
+
 Responding Units: RA-74
