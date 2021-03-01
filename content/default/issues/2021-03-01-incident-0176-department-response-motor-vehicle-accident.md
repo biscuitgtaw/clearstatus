@@ -2,12 +2,12 @@
 section: issue
 title: "Incident #0176 - Department Response - Motor Vehicle Accident"
 date: 2021-03-01T22:26:38.379Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: disrupted
 max_severity: disrupted
 duration: ""
-resolved_on: ""
+resolved_on: 2021-03-01T22:59:11.433Z
 affected:
   - West Los Santos
 enableComments: false
