@@ -1,6 +1,6 @@
 ---
 section: issue
-title: "Incident #0170 - Department Response - Vehicle Fire"
+title: "Incident #0171 - Department Response - Vehicle Fire"
 date: 2021-03-01T17:40:00.000Z
 status: in_progress
 pinned: ""
