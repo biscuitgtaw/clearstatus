@@ -12,4 +12,6 @@ affected:
   - Central Los Santos
 enableComments: false
 ---
+Lifeguards attended to the area of the Del Perro Freeway under Pillbox Hill Medical Center from Station 7 for a civilian down. Lifeguards provided medical assistance to the civilian and was taken to hospital by an Ambulance.
+
 Responding Units: LP-1, RA-71
