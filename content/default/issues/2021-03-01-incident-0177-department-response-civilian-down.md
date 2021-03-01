@@ -12,4 +12,6 @@ affected:
   - Central Los Santos
 enableComments: false
 ---
+Lifeguards and a Rescue Engine has been dispatched from Station 3 to the reports of a person in Los Santos Police Custody downed in Mission Row Station, Mission Row. Firefighters are currently on scene providing assistance.
+
 Responding Units: LP-1, RE-3
