@@ -12,4 +12,6 @@ affected:
   - North Los Santos
 enableComments: false
 ---
+A Rescue Ambulance was dispatched from Station 7 to reports of a Motor Vehicle Accident on Baytree Canyon Road, Vinewood Hills . The victim was assisted on scene but refused further treatment and assistance to hospital.
+
 Responding Units: RA-74
