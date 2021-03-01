@@ -12,6 +12,6 @@ affected:
   - North Los Santos
 enableComments: false
 ---
-A Rescue Ambulance has been dispatched from Station 7 to reports of a civilian down at the Sports Centre on the ULSA Campus, Picture Perfect Drive. Firefighters are currently on scene.
+A Rescue Ambulance has been dispatched from Station 7 to reports of a civilian down at the Sports Centre on the ULSA Campus, Picture Perfect Drive. The victim was taken to hospital for further treatment after being looked over by responding Firefighters.
 
 Responding Units: RA-71
