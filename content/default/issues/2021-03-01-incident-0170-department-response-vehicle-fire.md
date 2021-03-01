@@ -12,6 +12,6 @@ affected:
   - South Los Santos
 enableComments: false
 ---
-
+An Engine was dispatched to the area of Carson Avenue, Davis from Station 7 for a vehicle fire. Rescue Crews identified no immediate threat to life and went on to extinguish the fire. Full knockdown was called within five minutes and the firefighters ensured no other fluids were leaking from the vehicle.
 
 Responding Units: E-7
