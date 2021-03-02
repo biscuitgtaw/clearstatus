@@ -4,7 +4,7 @@ title: "Incident #0185 - Emergeny Call - Mountain Rescue"
 date: 2021-03-02T16:52:00.889Z
 status: in_progress
 pinned: ""
-current_severity: disrupted
+current_severity: down
 max_severity: disrupted
 duration: ""
 resolved_on: ""
