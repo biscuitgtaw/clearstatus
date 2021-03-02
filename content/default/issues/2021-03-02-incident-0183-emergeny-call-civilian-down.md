@@ -12,4 +12,6 @@ affected:
   - South Los Santos
 enableComments: false
 ---
-Responding Units: RA-31, RE-3
+A Rescue Ambulance was dispatched from Station 3 to Forum Drive for reports of a Civilian down. On arrival, the Ambulance had Dispatch check the call back and found the Fire Department was not needed. 
+
+Responding Units: RA-31
