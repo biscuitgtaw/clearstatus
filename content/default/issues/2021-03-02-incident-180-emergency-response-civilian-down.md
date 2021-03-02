@@ -12,4 +12,6 @@ affected:
   - East Los Santos
 enableComments: false
 ---
-Responding Units: RA-32
+A Rescue Basic has been dispatched from Station 3 to the reports of a civilian down on Cypress Flats Industrial Estate. Firefighters are currently on scene providing assistance.
+
+Responding Units: RB-31
