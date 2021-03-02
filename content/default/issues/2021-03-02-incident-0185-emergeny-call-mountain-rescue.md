@@ -12,4 +12,4 @@ affected:
   - Blaine County
 enableComments: false
 ---
-Responding Units: RE-3, USAR-3, UT-3, COPTER-2
+Responding Units: RE-3, USAR-3, UT-3, COPTER-2, Q-7, RA-1, ATV-3
