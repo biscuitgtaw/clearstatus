@@ -1,6 +1,6 @@
 ---
 section: issue
-title: "Incident #0173 - Emergency Response - Civilian Down"
+title: "Incident #0173 - Emergency Call - Civilian Down"
 date: 2021-03-01T18:47:46.078Z
 status: resolved
 pinned: ""
