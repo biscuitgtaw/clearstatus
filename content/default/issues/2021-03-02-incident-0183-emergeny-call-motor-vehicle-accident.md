@@ -12,4 +12,6 @@ affected:
   - Blaine County
 enableComments: false
 ---
+A Rescue Ambulance and Rescue Engine were dispatch from Station 3 to the Southbound lane of Travel on the Senora Freeway for a Motor Vehicle Accident. On arrival, Rescue Engine had Dispatch check the call back and the caller had Self-Transported. 
+
 Responding Units: RE-3, RA-31
