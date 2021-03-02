@@ -12,4 +12,6 @@ affected:
   - East Los Santos
 enableComments: false
 ---
+A Rescue Ambulance has been dispatched from Station 3 to the reports of a Vehicle vs Pedestrian on the Elysian Freeway. Firefighters are currently on scene providing assistance.
+
 Responding Units: RA-31
