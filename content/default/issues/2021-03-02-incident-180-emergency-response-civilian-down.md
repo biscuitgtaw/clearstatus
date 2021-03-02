@@ -2,16 +2,16 @@
 section: issue
 title: "Incident #180 - Emergency Response - Civilian Down"
 date: 2021-03-02T00:32:25.877Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: disrupted
 max_severity: disrupted
 duration: ""
-resolved_on: ""
+resolved_on: 2021-03-02T00:59:15.214Z
 affected:
   - East Los Santos
 enableComments: false
 ---
-A Rescue Basic has been dispatched from Station 3 to the reports of a civilian down on Cypress Flats Industrial Estate. Firefighters are currently on scene providing assistance.
+A Rescue Basic was dispatched from Station 3 to the reports of a civilian down on Cypress Flats Industrial Estate. Firefighters provided assistance on scene with ALS Paramedics being brought in, the victim was then transported to hospital.
 
-Responding Units: RB-31, UT-3
+Responding Units: RA-32
