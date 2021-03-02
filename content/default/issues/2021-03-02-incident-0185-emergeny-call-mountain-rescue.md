@@ -14,4 +14,6 @@ enableComments: false
 ---
 A Rescue Ambulance, Rescue Engine, USAR, Helicopter, Utility Tender, Quint and Battalion were dispatched from Station 3, Station 6 and Station 7 to reports of two hikers in distress atop Mount Chilliad. Three patients were airlifted to hospital.
 
+![](/images/uploads/gta-world-camera-2021-3-2-18-1-33.png)
+
 Responding Units: RE-3, USAR-3, UT-3, COPTER-2, Q-7, RA-1, ATV-3, BC-1, K9-1, UT-1
