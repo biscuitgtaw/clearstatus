@@ -12,6 +12,6 @@ affected:
   - West Los Santos
 enableComments: false
 ---
-A Rescue Ambulance has been dispatched from Station 3 to the reports of a Vehicle vs Pedestrian on Ginger Street, Little Seoul. Firefighters are currently on scene providing assistance.
+A Rescue Ambulance was dispatched from Station 3 to the reports of a Vehicle vs Pedestrian on Ginger Street, Little Seoul. Firefighters assisted the victim on scene and transported them to hospital.
 
 Responding Units: RA-31
