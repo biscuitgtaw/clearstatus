@@ -12,4 +12,6 @@ affected:
   - Blaine County
 enableComments: false
 ---
+![](https://i.imgur.com/gJGyiMq.png)
+
 Responding Units: SQUAD-3, RE-3
