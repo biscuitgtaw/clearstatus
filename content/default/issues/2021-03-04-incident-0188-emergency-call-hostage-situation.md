@@ -12,6 +12,6 @@ affected:
   - Central Los Santos
 enableComments: false
 ---
-![](https://i.imgur.com/kWPQQBR.png)
+![](https://i.imgur.com/DPyjA1C.png)
 
 Responding Units: RB-31, E-7
