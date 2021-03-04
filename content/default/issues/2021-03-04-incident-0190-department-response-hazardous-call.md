@@ -12,6 +12,8 @@ affected:
   - Blaine County
 enableComments: false
 ---
+
+
 ![](https://i.imgur.com/gJGyiMq.png)
 
-Responding Units: SQUAD-3, RE-3
+Responding Units: SQUAD-3, RE-3, RA-32, COPTER-2
