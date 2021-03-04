@@ -14,4 +14,4 @@ enableComments: false
 ---
 ![](https://i.imgur.com/kWPQQBR.png)
 
-Responding Units: RB-31
+Responding Units: RB-31, E-7
