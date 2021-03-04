@@ -12,4 +12,6 @@ affected:
   - Central Los Santos
 enableComments: false
 ---
-Responding Units: RA-31
+![](https://i.imgur.com/kWPQQBR.png)
+
+Responding Units: RB-31
