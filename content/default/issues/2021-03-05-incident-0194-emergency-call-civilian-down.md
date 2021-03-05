@@ -12,4 +12,6 @@ affected:
   - West Los Santos
 enableComments: false
 ---
-Responding Units: LP-3, PR-2
+Lifeguards were dispatched from Tower one to reports of a civilian down after a robbery on Del Perro Pier, Del Perro. Lifeguards administered first aid to the victim before a Rescue Ambulance was dispatched from Station 7. The Paramedics administered further first aid and transported the patient to hospital.
+
+Responding Units: LP-3, LP-1, RB-73, PR-2
