@@ -12,4 +12,4 @@ affected:
   - East Los Santos
 enableComments: false
 ---
-Responding Units: E-6, RA-31
+Responding Units: E-6
