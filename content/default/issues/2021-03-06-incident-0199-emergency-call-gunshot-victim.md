@@ -1,6 +1,6 @@
 ---
 section: issue
-title: "Incident #0199 - Emergency Call - Gunshot Victim"
+title: "Incident #0199 - Emergency Call - Accident / Trauma"
 date: 2021-03-06T17:37:47.121Z
 status: in_progress
 pinned: ""
