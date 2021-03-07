@@ -2,7 +2,7 @@
 section: issue
 title: "Incident #0203 - Emergency Call - Multiple Civilians Down (Struck by Vehicle)"
 date: 2021-03-07T21:10:26.602Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: disrupted
 max_severity: disrupted
