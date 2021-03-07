@@ -12,4 +12,4 @@ affected:
   - Central Los Santos
 enableComments: false
 ---
-Responding Units: RA-74, RA-4
+Responding Units: RA-74
