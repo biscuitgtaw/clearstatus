@@ -12,4 +12,9 @@ affected:
   - West Los Santos
 enableComments: false
 ---
-Responding Units: LP-2, RA-74, RA-31
+Scene Reporting:
+* [MCI] - 6 reported casualties in total.
+* [MCI] - 4 confirmed DOA.
+* [MCI] - 2 treated for their injuries.
+
+Responding Units: LP-2, RA-74, RA-73
