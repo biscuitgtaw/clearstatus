@@ -2,7 +2,7 @@
 section: issue
 title: "Incident #0204 - Emergency Call - Motor Vehicle Accident"
 date: 2021-03-13T20:33:09.186Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: disrupted
 max_severity: disrupted
