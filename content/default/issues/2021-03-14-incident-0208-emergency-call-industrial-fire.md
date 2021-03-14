@@ -17,4 +17,6 @@ Timeline:
 * [18:06] - First units arrive.
 * [18:09] - Primary Attack started, no chemical hazard present.
 
+![](https://i.imgur.com/GLbwGM0.jpg)
+
 Responding Units: B-1, RE-3, E-6, RA-12, PR-1, SFM
