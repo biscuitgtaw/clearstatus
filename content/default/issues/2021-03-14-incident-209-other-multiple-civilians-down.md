@@ -12,4 +12,4 @@ affected:
   - West Los Santos
 enableComments: false
 ---
-Responding Units: LP-3
+Responding Units: LP-3, LP-2
