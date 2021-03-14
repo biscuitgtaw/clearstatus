@@ -15,5 +15,6 @@ enableComments: false
 Timeline:
 * [18:04] - Call received / units dispatched.
 * [18:06] - First units arrive.
+* [18:09] - Primary Attack started, no chemical hazard present.
 
 Responding Units: B-1, RE-3, E-6, RA-12, PR-1, SFM
