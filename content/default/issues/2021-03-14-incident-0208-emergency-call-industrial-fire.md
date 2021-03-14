@@ -16,6 +16,7 @@ Timeline:
 * [18:04] - Call received / units dispatched.
 * [18:06] - First units arrive.
 * [18:09] - Primary Attack started, no chemical hazard present.
+* [18:17] - Knockdown declared.
 
 ![](https://i.imgur.com/GLbwGM0.jpg)
 
