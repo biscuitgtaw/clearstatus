@@ -16,6 +16,6 @@ An Engine and Rescue Ambulance were dispatched to reports of an active Electrica
 
 \[17:13] RE-3, RA-31 arrive on scene.
 \[17:15] Primary Search Commenced.
-\[17:16] Fire Attack Commenced
+\[17:34] Interior Commenced.
 
 Responding Units: RE-3, RA-31
