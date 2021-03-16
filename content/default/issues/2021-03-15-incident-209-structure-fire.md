@@ -12,7 +12,7 @@ affected:
   - Blaine County
 enableComments: false
 ---
-An Engine and Rescue Ambulance were dispatched to reports of an active Electrical Fire on the Palomino Freeway in the Tatvium Mountains, Firefighters are currently on scene and dealing with the fire.
+Rescue Engine, Engine, Rescue Ambulance and State Fire Marshals were dispatched out to the area of Tatvium Mountains from Station 3 for an Electrical Fire. After arriving on scene, a primary attack was established, shortly after, a knockdown was established and units soon concluded the operation after an overhaul was completed.
 
 \[17:13] RE-3, RA-31 arrive on scene.
 \[17:34] Fire Attack Commenced.
